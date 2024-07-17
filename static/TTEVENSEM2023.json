@@ -1,0 +1,4164 @@
+{
+"TTEntryUG2 (2)":[
+ {
+  "Column4": "S. No.",
+  "TIME": "DAY",
+  "9:00 AM": "L-T-P",
+  "Column7": "Sub Code",
+  "Column8": "Batch",
+  "Column9": "Faculty",
+  "Column10": "Room",
+  "10:00 AM": "L-T-P",
+  "Column12": "Sub Code",
+  "Column13": "Batch",
+  "Column14": "Faculty",
+  "Column15": "Room",
+  "11:00 AM": "L-T-P",
+  "Column17": "Sub Code",
+  "Column18": "Batch",
+  "Column19": "Faculty",
+  "Column20": "Room",
+  "12:00 PM": "L-T-P",
+  "Column22": "Sub Code",
+  "Column23": "Batch",
+  "Column24": "Faculty",
+  "Column25": "Room",
+  "1:00 PM": "L-T-P",
+  "Column27": "Sub Code",
+  "Column28": "Batch",
+  "Column29": "Faculty",
+  "Column30": "Room",
+  "2:00 PM": "L-T-P",
+  "Column32": "Sub Code",
+  "Column33": "Batch",
+  "Column34": "Faculty",
+  "Column35": "Room",
+  "3:00 PM": "L-T-P",
+  "Column37": "Sub Code",
+  "Column38": "Batch",
+  "Column39": "Faculty",
+  "Column40": "Room",
+  "4:00 PM": "L-T-P",
+  "Column42": "Sub Code",
+  "Column43": "Batch",
+  "Column44": "Faculty",
+  "Column45": "Room",
+  "5:00 PM": "L-T-P",
+  "Column47": "Sub Code",
+  "Column48": "Batch",
+  "Column49": "Faculty",
+  "Column50": "Room"
+ },
+ {
+  "Column4": 1,
+  "TIME": "MON",
+  "9:00 AM": "L",
+  "Column7": "18B11CI211",
+  "Column8": " CS24-CS26 ",
+  "Column10": "CR2",
+  "10:00 AM": "L",
+  "Column12": "18B11MA211",
+  "Column13": " CS24-CS26 ",
+  "Column15": "LT2",
+  "11:00 AM": "L",
+  "Column17": "18B11PH211",
+  "Column18": " CS24-CS26 ",
+  "Column20": "LT2",
+  "12:00 PM": "L",
+  "Column22": "18B11EC211",
+  "Column23": " CS23 ",
+  "Column25": "CR17",
+  "1:00 PM": "L",
+  "Column27": "18B11CI211",
+  "Column28": " CS27-CS29 ",
+  "Column30": "LT2",
+  "2:00 PM": "L",
+  "Column32": "18B11MA211",
+  "Column33": " CS210,IT21-IT22,EC21,EM21,CE21 ",
+  "Column35": "LT1",
+  "3:00 PM": "L",
+  "Column37": "18B11MA211",
+  "Column38": " CS27-CS29 ",
+  "Column40": "CR1"
+ },
+ {
+  "Column4": 2,
+  "9:00 AM": "L",
+  "Column7": "18B11CI211",
+  "Column8": " EC21,EM21,CE21 ",
+  "Column9": "RIV",
+  "Column10": "CR6",
+  "10:00 AM": "L",
+  "Column12": "18B11EC211",
+  "Column13": " CS210,IT21-IT22,EC21,EM21,CE21 ",
+  "Column15": "CR1",
+  "11:00 AM": "L",
+  "Column17": "18B11EC211",
+  "Column18": " CS27-CS29 ",
+  "Column20": "CR1",
+  "2:00 PM": "L",
+  "Column32": "18B11PH211",
+  "Column33": " CS27-CS29 ",
+  "Column35": "LT2"
+ },
+ {
+  "Column4": 3,
+  "9:00 AM": "L",
+  "Column7": "18B11EC212",
+  "Column8": " BI21,BT21 ",
+  "Column9": "PRG",
+  "Column10": "CR7",
+  "11:00 AM": "L",
+  "Column17": "18B11EC211",
+  "Column18": " CS21 ",
+  "Column20": "CR17",
+  "2:00 PM": "L",
+  "Column32": "18B11EC211",
+  "Column33": " CS21-CS23 ",
+  "Column35": "CR2"
+ },
+ {
+  "Column4": 4,
+  "9:00 AM": "L",
+  "Column7": "18B11CI211",
+  "Column8": " CS210,IT21,IT22 ",
+  "Column10": "CR9",
+  "11:00 AM": "L",
+  "Column17": "18B11CI211",
+  "Column18": " IT21 ",
+  "Column20": "TR1",
+  "1:00 PM": "P",
+  "Column27": "18B17CI271",
+  "Column28": " BI21,BT21 ",
+  "Column30": "CL1",
+  "2:00 PM": "P",
+  "Column32": "18B17CI271",
+  "Column33": " BI21,BT21 ",
+  "Column35": "CL1"
+ },
+ {
+  "Column4": 5,
+  "9:00 AM": "P",
+  "Column7": "21B11HS271",
+  "Column8": " CS27 ",
+  "Column10": "LANGULAB",
+  "10:00 AM": "P",
+  "Column12": "21B11HS271",
+  "Column13": " CS27 ",
+  "Column15": "LANGULAB",
+  "11:00 AM": "L",
+  "Column17": "18B11MA212",
+  "Column18": " BI21,BT21 ",
+  "Column20": "TR4",
+  "1:00 PM": "P",
+  "Column27": "18B17CI271",
+  "Column28": " CS24 ",
+  "Column30": "CL4",
+  "2:00 PM": "P",
+  "Column32": "18B17CI271",
+  "Column33": " CS24 ",
+  "Column35": "CL4"
+ },
+ {
+  "Column4": 6,
+  "9:00 AM": "P",
+  "Column7": "18B17EC271",
+  "Column8": " CS22 ",
+  "Column10": "ECL2",
+  "10:00 AM": "P",
+  "Column12": "18B17EC271",
+  "Column13": " CS22 ",
+  "Column15": "ECL2",
+  "11:00 AM": "P",
+  "Column17": "21B11HS271",
+  "Column18": " CS210 ",
+  "Column20": "LANGULAB",
+  "12:00 PM": "P",
+  "Column22": "21B11HS271",
+  "Column23": " CS210 ",
+  "Column25": "LANGULAB",
+  "2:00 PM": "L",
+  "Column32": "18B11EC211",
+  "Column33": " CS26 ",
+  "Column35": "TR4"
+ },
+ {
+  "Column4": 7,
+  "9:00 AM": "P",
+  "Column7": "18B17PH271",
+  "Column8": "  CS21 ",
+  "Column10": "PHLAB1",
+  "10:00 AM": "P",
+  "Column12": "18B17PH271",
+  "Column13": "  CS21 ",
+  "Column15": "PHLAB1",
+  "11:00 AM": "P",
+  "Column17": "18B17CI271",
+  "Column18": " CS22 ",
+  "Column20": "CL4",
+  "12:00 PM": "P",
+  "Column22": "18B17CI271",
+  "Column23": " CS22 ",
+  "Column25": "CL4",
+  "2:00 PM": "P",
+  "Column32": "18B17GE173",
+  "Column33": " CS25 ",
+  "Column35": "DRAWR",
+  "3:00 PM": "P",
+  "Column37": "18B17GE173",
+  "Column38": " CS25 ",
+  "Column40": "DRAWR",
+  "4:00 PM": "P",
+  "Column42": "18B17GE173",
+  "Column43": " CS25 ",
+  "Column45": "DRAWR"
+ },
+ {
+  "Column4": 8,
+  "11:00 AM": "P",
+  "Column17": "18B17CI271",
+  "Column18": " EC21,EM21,CE21 ",
+  "Column20": "CL9_2",
+  "12:00 PM": "P",
+  "Column22": "18B17CI271",
+  "Column23": " EC21,EM21,CE21 ",
+  "Column25": "CL9_2",
+  "3:00 PM": "L",
+  "Column37": "18B11CI211",
+  "Column38": " CS26 ",
+  "Column40": "TR2"
+ },
+ {
+  "Column4": 9,
+  "10:00 AM": "L",
+  "Column12": "18B11WPH21",
+  "Column13": " BI21, BT21 ",
+  "Column15": "TR4",
+  "12:00 PM": "L",
+  "Column22": "18B11MA211",
+  "Column23": " CS21 ",
+  "Column25": "TR6",
+  "3:00 PM": "P",
+  "Column37": "21B11HS271",
+  "Column38": " BI21,BT21 ",
+  "Column40": "GDROOM",
+  "4:00 PM": "P",
+  "Column42": "21B11HS271",
+  "Column43": " BI21,BT21 ",
+  "Column45": "GDROOM"
+ },
+ {
+  "Column4": 10,
+  "10:00 AM": "L",
+  "Column12": "18B11MA211",
+  "Column13": " CS28 ",
+  "Column15": "TR6",
+  "3:00 PM": "P",
+  "Column37": "21B11HS271",
+  "Column38": " CS23 ",
+  "Column40": "LANGULAB",
+  "4:00 PM": "P",
+  "Column42": "21B11HS271",
+  "Column43": " CS23 ",
+  "Column45": "LANGULAB"
+ },
+ {
+  "Column4": 11,
+  "9:00 AM": "P",
+  "Column7": "18B17GE173",
+  "Column8": " CS23 ",
+  "Column10": "DRAWR",
+  "10:00 AM": "P",
+  "Column12": "18B17GE173",
+  "Column13": " CS23 ",
+  "Column15": "DRAWR",
+  "11:00 AM": "P",
+  "Column17": "18B17GE173",
+  "Column18": " CS23 ",
+  "Column20": "DRAWR",
+  "3:00 PM": "P",
+  "Column37": "18B17EC271",
+  "Column38": " EC21,EM21,CE21 ",
+  "Column40": "ECL1",
+  "4:00 PM": "P",
+  "Column42": "18B17EC271",
+  "Column43": " EC21,EM21,CE21 ",
+  "Column45": "ECL1"
+ },
+ {
+  "Column4": 12,
+  "3:00 PM": "P",
+  "Column37": "18B17CI271",
+  "Column38": " CS210 ",
+  "Column40": "CL5_1",
+  "4:00 PM": "P",
+  "Column42": "18B17CI271",
+  "Column43": " CS210 ",
+  "Column45": "CL5_1"
+ },
+ {
+  "Column4": 13,
+  "3:00 PM": "P",
+  "Column37": "18B17CI271",
+  "Column38": " IT22 ",
+  "Column40": "CL9_2",
+  "4:00 PM": "P",
+  "Column42": "18B17CI271",
+  "Column43": " IT22 ",
+  "Column45": "CL9_2"
+ },
+ {
+  "Column4": 14,
+  "3:00 PM": "P",
+  "Column37": "18B17CI271",
+  "Column38": " CS21 ",
+  "Column40": "CL11",
+  "4:00 PM": "P",
+  "Column42": "18B17CI271",
+  "Column43": " CS21 ",
+  "Column45": "CL11"
+ },
+ {
+  "Column4": 15,
+  "3:00 PM": "P",
+  "Column37": "18B17PH271",
+  "Column38": "  CS24 ",
+  "Column40": "PHLAB1",
+  "4:00 PM": "P",
+  "Column42": "18B17PH271",
+  "Column43": "  CS24 ",
+  "Column45": "PHLAB1"
+ },
+ {
+  "Column4": 16,
+  "3:00 PM": "P",
+  "Column37": "18B17PH271",
+  "Column38": "  IT21 ",
+  "Column40": "PHLAB2",
+  "4:00 PM": "P",
+  "Column42": "18B17PH271",
+  "Column43": "  IT21 ",
+  "Column45": "PHLAB2"
+ },
+ {
+  "Column4": 1,
+  "TIME": "TUE",
+  "9:00 AM": "L",
+  "Column7": "18B11MA211",
+  "Column8": " CS210,IT21-IT22,EC21,EM21,CE21 ",
+  "Column10": "LT1",
+  "10:00 AM": "L",
+  "Column12": "18B11PH211",
+  "Column13": " CS21-CS23 ",
+  "Column15": "LT1",
+  "11:00 AM": "L",
+  "Column17": "18B11MA211",
+  "Column18": " CS21-CS23 ",
+  "Column20": "LT1",
+  "12:00 PM": "L",
+  "Column22": "18B11CI211",
+  "Column23": " EC21,EM21,CE21 ",
+  "Column25": "CR2",
+  "1:00 PM": "L",
+  "Column27": "18B11CI211",
+  "Column28": " CS27-CS29 ",
+  "Column30": "LT2",
+  "2:00 PM": "L",
+  "Column32": "18B11PH211",
+  "Column33": " CS27-CS29 ",
+  "Column35": "LT2",
+  "3:00 PM": "L",
+  "Column37": "18B11CI211",
+  "Column38": " CS21-CS23 ",
+  "Column40": "LT2"
+ },
+ {
+  "Column4": 2,
+  "9:00 AM": "L",
+  "Column7": "18B11EC211",
+  "Column8": " CS21-CS23 ",
+  "Column10": "CR2",
+  "10:00 AM": "L",
+  "Column12": "18B11PH211",
+  "Column13": " CS210,IT21-IT22,EC21,EM21,CE21 ",
+  "Column15": "CR1",
+  "11:00 AM": "L",
+  "Column17": "18B11EC211",
+  "Column18": " CS27-CS29 ",
+  "Column20": "LT2",
+  "1:00 PM": "P",
+  "Column27": "21B11HS271",
+  "Column28": " CS24 ",
+  "Column30": "LANGULAB",
+  "2:00 PM": "P",
+  "Column32": "21B11HS271",
+  "Column33": " CS24 ",
+  "Column35": "LANGULAB",
+  "3:00 PM": "L",
+  "Column37": "18B11MA211",
+  "Column38": " CS27-CS29 ",
+  "Column40": "CR1"
+ },
+ {
+  "Column4": 3,
+  "9:00 AM": "L",
+  "Column7": "18B11MA212",
+  "Column8": " BI21,BT21 ",
+  "Column10": "CR9",
+  "11:00 AM": "L",
+  "Column17": "18B11CI211",
+  "Column18": " BI21,BT21 ",
+  "Column20": "CR5",
+  "1:00 PM": "P",
+  "Column27": "18B17CI271",
+  "Column28": " IT21 ",
+  "Column30": "CL5_1",
+  "2:00 PM": "P",
+  "Column32": "18B17CI271",
+  "Column33": " IT21 ",
+  "Column35": "CL5_1",
+  "3:00 PM": "L",
+  "Column37": "18B11CI211",
+  "Column38": " CS24-CS26 ",
+  "Column40": "CR2"
+ },
+ {
+  "Column4": 4,
+  "9:00 AM": "P",
+  "Column7": "21B11HS271",
+  "Column8": " CS25 ",
+  "Column10": "GDROOM",
+  "10:00 AM": "P",
+  "Column12": "21B11HS271",
+  "Column13": " CS25 ",
+  "Column15": "GDROOM",
+  "11:00 AM": "L",
+  "Column17": "18B11EC211",
+  "Column18": " EC21,EM21,CE21 ",
+  "Column20": "CR7",
+  "1:00 PM": "P",
+  "Column27": "18B17CI271",
+  "Column28": " CS26 ",
+  "Column30": "CL6",
+  "2:00 PM": "P",
+  "Column32": "18B17CI271",
+  "Column33": " CS26 ",
+  "Column35": "CL6"
+ },
+ {
+  "Column4": 5,
+  "9:00 AM": "P",
+  "Column7": "21B11HS271",
+  "Column8": " CS29 ",
+  "Column10": "LANGULAB",
+  "10:00 AM": "P",
+  "Column12": "21B11HS271",
+  "Column13": " CS29 ",
+  "Column15": "LANGULAB",
+  "11:00 AM": "L",
+  "Column17": "18B11MA211",
+  "Column18": " CS25 ",
+  "Column20": "TR4",
+  "1:00 PM": "P",
+  "Column27": "18B17CI271",
+  "Column28": " CS25 ",
+  "Column30": "CL7",
+  "2:00 PM": "P",
+  "Column32": "18B17CI271",
+  "Column33": " CS25 ",
+  "Column35": "CL7"
+ },
+ {
+  "Column4": 6,
+  "9:00 AM": "P",
+  "Column7": "18B17EC271",
+  "Column8": " CS28 ",
+  "Column10": "ECL1",
+  "10:00 AM": "P",
+  "Column12": "18B17EC271",
+  "Column13": " CS28 ",
+  "Column15": "ECL1",
+  "11:00 AM": "P",
+  "Column17": "18B17CI271",
+  "Column18": " IT22 ",
+  "Column20": "CL9_2",
+  "12:00 PM": "P",
+  "Column22": "18B17CI271",
+  "Column23": " IT22 ",
+  "Column25": "CL9_2",
+  "2:00 PM": "P",
+  "Column32": "18B17GE173",
+  "Column33": " CS210 ",
+  "Column35": "DRAWR",
+  "3:00 PM": "P",
+  "Column37": "18B17GE173",
+  "Column38": " CS210 ",
+  "Column40": "DRAWR",
+  "4:00 PM": "P",
+  "Column42": "18B17GE173",
+  "Column43": " CS210 ",
+  "Column45": "DRAWR"
+ },
+ {
+  "Column4": 7,
+  "9:00 AM": "P",
+  "Column7": "18B17EC271",
+  "Column8": " CS27 ",
+  "Column10": "ECL2",
+  "10:00 AM": "P",
+  "Column12": "18B17EC271",
+  "Column13": " CS27 ",
+  "Column15": "ECL2",
+  "12:00 PM": "L",
+  "Column22": "18B11MA211",
+  "Column23": " CS22 ",
+  "Column25": "TR6",
+  "2:00 PM": "P",
+  "Column32": "18B17GE171",
+  "Column33": " EC21,EM21,CE21 ",
+  "Column35": "WORKLAB",
+  "3:00 PM": "P",
+  "Column37": "18B17GE171",
+  "Column38": " EC21,EM21,CE21 ",
+  "Column40": "WORKLAB",
+  "4:00 PM": "P",
+  "Column42": "18B17GE171",
+  "Column43": " EC21,EM21,CE21 ",
+  "Column45": "WORKLAB"
+ },
+ {
+  "Column4": 8,
+  "9:00 AM": "P",
+  "Column7": "18B17GE173",
+  "Column8": " CS24 ",
+  "Column10": "DRAWR",
+  "10:00 AM": "P",
+  "Column12": "18B17GE173",
+  "Column13": " CS24 ",
+  "Column15": "DRAWR",
+  "11:00 AM": "P",
+  "Column17": "18B17GE173",
+  "Column18": " CS24 ",
+  "Column20": "DRAWR",
+  "3:00 PM": "P",
+  "Column37": "18B17EC272",
+  "Column38": " BI21,BT21 ",
+  "Column40": "ECL2",
+  "4:00 PM": "P",
+  "Column42": "18B17EC272",
+  "Column43": " BI21,BT21 ",
+  "Column45": "ECL2"
+ },
+ {
+  "Column4": 9,
+  "9:00 AM": "T",
+  "Column7": "18B11EC211",
+  "Column8": " CS211 ",
+  "Column9": "SRU",
+  "Column10": "TR1",
+  "10:00 AM": "L",
+  "Column12": "18B11MA212",
+  "Column13": " BI21,BT21 ",
+  "Column15": "TR7",
+  "3:00 PM": "P",
+  "Column37": "18B17PH271",
+  "Column38": "  IT22 ",
+  "Column40": "PHLAB2",
+  "4:00 PM": "P",
+  "Column42": "18B17PH271",
+  "Column43": "  IT22 ",
+  "Column45": "PHLAB2"
+ },
+ {
+  "Column4": 10,
+  "4:00 PM": "L",
+  "Column42": "18B11CI211",
+  "Column43": " CS21 ",
+  "Column45": "TR1"
+ },
+ {
+  "Column4": 11,
+  "4:00 PM": "L",
+  "Column42": "18B11EC211",
+  "Column43": " CS29 ",
+  "Column45": "TR4"
+ },
+ {
+  "Column4": 12
+ },
+ {
+  "Column4": 13
+ },
+ {
+  "Column4": 14
+ },
+ {
+  "Column4": 15
+ },
+ {
+  "Column4": 16
+ },
+ {
+  "Column4": 1,
+  "TIME": "WED",
+  "9:00 AM": "L",
+  "Column7": "18B11EC211",
+  "Column8": " CS27-CS29 ",
+  "Column10": "LT2",
+  "10:00 AM": "L",
+  "Column12": "18B11MA211",
+  "Column13": " CS24-CS26 ",
+  "Column15": "LT2",
+  "11:00 AM": "L",
+  "Column17": "18B11PH211",
+  "Column18": " CS24-CS26 ",
+  "Column20": "LT2",
+  "2:00 PM": "L",
+  "Column32": "18B11MA211",
+  "Column33": " CS210,IT21-IT22,EC21,EM21,CE21 ",
+  "Column35": "LT1",
+  "3:00 PM": "L",
+  "Column37": "18B11CI211",
+  "Column38": " CS21-CS23 ",
+  "Column40": "LT2"
+ },
+ {
+  "Column4": 2,
+  "9:00 AM": "L",
+  "Column7": "18B11CI211",
+  "Column8": " CS24-CS26 ",
+  "Column10": "CR2",
+  "10:00 AM": "L",
+  "Column12": "18B11PH211",
+  "Column13": " CS210,IT21-IT22,EC21,EM21,CE21 ",
+  "Column15": "CR1",
+  "11:00 AM": "L",
+  "Column17": "18B11CI211",
+  "Column18": " BI21,BT21 ",
+  "Column20": "CR5",
+  "2:00 PM": "L",
+  "Column32": "18B11EC211",
+  "Column33": " CS24-CS26 ",
+  "Column35": "CR2"
+ },
+ {
+  "Column4": 3,
+  "9:00 AM": "L",
+  "Column7": "18B11CI211",
+  "Column8": " EC21,EM21,CE21 ",
+  "Column9": "RIV",
+  "Column10": "CR6",
+  "10:00 AM": "L",
+  "Column12": "21B11HS211",
+  "Column13": " CS27-CS29 ",
+  "Column15": "CR9",
+  "11:00 AM": "L",
+  "Column17": "18B11EC211",
+  "Column18": " IT22 ",
+  "Column20": "CR6",
+  "2:00 PM": "L",
+  "Column32": "18B11CI211",
+  "Column33": " BI21,BT21 ",
+  "Column35": "TR6"
+ },
+ {
+  "Column4": 4,
+  "9:00 AM": "L",
+  "Column7": "18B11CI211",
+  "Column8": " CS210,IT21-IT22 ",
+  "Column10": "CR9",
+  "11:00 AM": "P",
+  "Column17": "21B11HS271",
+  "Column18": " IT21 ",
+  "Column20": "GDROOM",
+  "12:00 PM": "P",
+  "Column22": "21B11HS271",
+  "Column23": " IT21 ",
+  "Column25": "GDROOM",
+  "2:00 PM": "P",
+  "Column32": "18B17GE173",
+  "Column33": " CS28 ",
+  "Column35": "DRAWR",
+  "3:00 PM": "P",
+  "Column37": "18B17GE173",
+  "Column38": " CS28 ",
+  "Column40": "DRAWR",
+  "4:00 PM": "P",
+  "Column42": "18B17GE173",
+  "Column43": " CS28 ",
+  "Column45": "DRAWR"
+ },
+ {
+  "Column4": 5,
+  "9:00 AM": "P",
+  "Column7": "18B17EC271",
+  "Column8": " CS21 ",
+  "Column10": "ECL2",
+  "10:00 AM": "P",
+  "Column12": "18B17EC271",
+  "Column13": " CS21 ",
+  "Column15": "ECL2",
+  "11:00 AM": "P",
+  "Column17": "21B11HS271",
+  "Column18": " CS21 ",
+  "Column20": "LANGULAB",
+  "12:00 PM": "P",
+  "Column22": "21B11HS271",
+  "Column23": " CS21 ",
+  "Column25": "LANGULAB",
+  "3:00 PM": "L",
+  "Column37": "18B11CI211",
+  "Column38": " IT22 ",
+  "Column40": "TR3"
+ },
+ {
+  "Column4": 6,
+  "9:00 AM": "P",
+  "Column7": "18B17PH271",
+  "Column8": "  CS23 ",
+  "Column10": "PHLAB1",
+  "10:00 AM": "P",
+  "Column12": "18B17PH271",
+  "Column13": "  CS23 ",
+  "Column15": "PHLAB1",
+  "11:00 AM": "P",
+  "Column17": "18B17CI271",
+  "Column18": " CS23 ",
+  "Column20": "CL6",
+  "12:00 PM": "P",
+  "Column22": "18B17CI271",
+  "Column23": " CS23 ",
+  "Column25": "CL6",
+  "3:00 PM": "L",
+  "Column37": "18B11WPH21",
+  "Column38": " BI21, BT21 ",
+  "Column40": "TR6"
+ },
+ {
+  "Column4": 7,
+  "11:00 AM": "P",
+  "Column17": "18B17CI271",
+  "Column18": " CS28 ",
+  "Column20": "CL11",
+  "12:00 PM": "P",
+  "Column22": "18B17CI271",
+  "Column23": " CS28 ",
+  "Column25": "CL11",
+  "3:00 PM": "P",
+  "Column37": "18B17EC271",
+  "Column38": " IT21 ",
+  "Column40": "ECL1",
+  "4:00 PM": "P",
+  "Column42": "18B17EC271",
+  "Column43": " IT21 ",
+  "Column45": "ECL1"
+ },
+ {
+  "Column4": 8,
+  "10:00 AM": "L",
+  "Column12": "18B11MA212",
+  "Column13": " BI21,BT21 ",
+  "Column15": "TR4",
+  "11:00 AM": "P",
+  "Column17": "18B17PH271",
+  "Column18": "  CS27 ",
+  "Column20": "PHLAB1",
+  "12:00 PM": "P",
+  "Column22": "18B17PH271",
+  "Column23": "  CS27 ",
+  "Column25": "PHLAB1",
+  "3:00 PM": "P",
+  "Column37": "18B17EC271",
+  "Column38": " CS26 ",
+  "Column40": "ECL2",
+  "4:00 PM": "P",
+  "Column42": "18B17EC271",
+  "Column43": " CS26 ",
+  "Column45": "ECL2"
+ },
+ {
+  "Column4": 9,
+  "11:00 AM": "P",
+  "Column17": "18B17PH271",
+  "Column18": "  CS29 ",
+  "Column20": "PHLAB2",
+  "12:00 PM": "P",
+  "Column22": "18B17PH271",
+  "Column23": "  CS29 ",
+  "Column25": "PHLAB2",
+  "3:00 PM": "P",
+  "Column37": "18B17CI271",
+  "Column38": " CS24 ",
+  "Column40": "CL4",
+  "4:00 PM": "P",
+  "Column42": "18B17CI271",
+  "Column43": " CS24 ",
+  "Column45": "CL4"
+ },
+ {
+  "Column4": 10,
+  "9:00 AM": "P",
+  "Column7": "18B17GE173",
+  "Column8": " CS22 ",
+  "Column10": "DRAWR",
+  "10:00 AM": "P",
+  "Column12": "18B17GE173",
+  "Column13": " CS22 ",
+  "Column15": "DRAWR",
+  "11:00 AM": "P",
+  "Column17": "18B17GE173",
+  "Column18": " CS22 ",
+  "Column20": "DRAWR",
+  "3:00 PM": "P",
+  "Column37": "18B17CI271",
+  "Column38": " CS210 ",
+  "Column40": "CL5_1",
+  "4:00 PM": "P",
+  "Column42": "18B17CI271",
+  "Column43": " CS210 ",
+  "Column45": "CL5_1"
+ },
+ {
+  "Column4": 11,
+  "3:00 PM": "P",
+  "Column37": "18B17CI271",
+  "Column38": " CS27 ",
+  "Column40": "CL5_2",
+  "4:00 PM": "P",
+  "Column42": "18B17CI271",
+  "Column43": " CS27 ",
+  "Column45": "CL5_2"
+ },
+ {
+  "Column4": 12,
+  "3:00 PM": "P",
+  "Column37": "18B17CI271",
+  "Column38": " CS29 ",
+  "Column40": "CL8",
+  "4:00 PM": "P",
+  "Column42": "18B17CI271",
+  "Column43": " CS29 ",
+  "Column45": "CL8"
+ },
+ {
+  "Column4": 13,
+  "3:00 PM": "P",
+  "Column37": "18B17PH271",
+  "Column38": "  CS25 ",
+  "Column40": "PHLAB1",
+  "4:00 PM": "P",
+  "Column42": "18B17PH271",
+  "Column43": "  CS25 ",
+  "Column45": "PHLAB1"
+ },
+ {
+  "Column4": 14,
+  "3:00 PM": "P",
+  "Column37": "18B17PH271",
+  "Column38": "  EC21,EM21,CE21 ",
+  "Column40": "PHLAB2",
+  "4:00 PM": "P",
+  "Column42": "18B17PH271",
+  "Column43": "  EC21,EM21,CE21 ",
+  "Column45": "PHLAB2"
+ },
+ {
+  "Column4": 15
+ },
+ {
+  "Column4": 16
+ },
+ {
+  "Column4": 1,
+  "TIME": "THU",
+  "9:00 AM": "L",
+  "Column7": "18B11EC211",
+  "Column8": " CS21-CS23 ",
+  "Column10": "CR2",
+  "10:00 AM": "L",
+  "Column12": "18B11PH211",
+  "Column13": " CS21-CS23 ",
+  "Column15": "LT1",
+  "11:00 AM": "L",
+  "Column17": "18B11MA211",
+  "Column18": " CS21-CS23 ",
+  "Column20": "LT1",
+  "12:00 PM": "L",
+  "Column22": "18B11CI211",
+  "Column23": " CS210 ",
+  "Column25": "CR2",
+  "2:00 PM": "L",
+  "Column32": "18B11PH211",
+  "Column33": " CS27-CS29 ",
+  "Column35": "CR2",
+  "3:00 PM": "L",
+  "Column37": "18B11CI211",
+  "Column38": " CS27-CS29 ",
+  "Column40": "CR1",
+  "4:00 PM": "L",
+  "Column42": "18B11MA211",
+  "Column43": " CS27-CS29 ",
+  "Column45": "CR1"
+ },
+ {
+  "Column4": 2,
+  "9:00 AM": "L",
+  "Column7": "18B11CI211",
+  "Column8": " EC21,EM21,CE21 ",
+  "Column9": "RIV",
+  "Column10": "CR6",
+  "10:00 AM": "L",
+  "Column12": "18B11EC211",
+  "Column13": " CS210,IT21-IT22,EC21,EM21,CE21 ",
+  "Column15": "CR1",
+  "11:00 AM": "L",
+  "Column17": "18B11PH211",
+  "Column18": " CS210,IT21-IT22,EC21,EM21,CE21 ",
+  "Column20": "CR1",
+  "12:00 PM": "L",
+  "Column22": "18B11EC211",
+  "Column23": " IT21 ",
+  "Column25": "TR4",
+  "2:00 PM": "L",
+  "Column32": "18B11MA211",
+  "Column33": " IT22 ",
+  "Column35": "CR12",
+  "3:00 PM": "L",
+  "Column37": "18B11EC211",
+  "Column38": " CS24-CS26 ",
+  "Column40": "CR2"
+ },
+ {
+  "Column4": 3,
+  "9:00 AM": "L",
+  "Column7": "18B11EC212",
+  "Column8": " BI21,BT21 ",
+  "Column9": "PRG",
+  "Column10": "CR7",
+  "10:00 AM": "l",
+  "Column12": "18B11CI211",
+  "Column13": " CS29 ",
+  "Column14": "AVA",
+  "Column15": "CR8",
+  "11:00 AM": "L",
+  "Column17": "18B11CI211",
+  "Column18": " BI21,BT21 ",
+  "Column20": "CR2",
+  "2:00 PM": "L",
+  "Column32": "18B11MA211",
+  "Column33": " EC21,EM21,CE21 ",
+  "Column35": "CR16"
+ },
+ {
+  "Column4": 4,
+  "9:00 AM": "L",
+  "Column7": "18B11CI211",
+  "Column8": " CS210,IT21-IT22 ",
+  "Column10": "CR9",
+  "10:00 AM": "L",
+  "Column12": "18B11WPH21",
+  "Column13": " BI21, BT21 ",
+  "Column15": "CR11",
+  "11:00 AM": "L",
+  "Column17": "18B11EC211",
+  "Column18": " CS25 ",
+  "Column20": "TR1",
+  "1:00 PM": "P",
+  "Column27": "21B11HS271",
+  "Column28": " CS22 ",
+  "Column30": "LANGULAB",
+  "2:00 PM": "P",
+  "Column32": "21B11HS271",
+  "Column33": " CS22 ",
+  "Column35": "LANGULAB"
+ },
+ {
+  "Column4": 5,
+  "9:00 AM": "P",
+  "Column7": "21B11HS271",
+  "Column8": " CS26 ",
+  "Column10": "GDROOM",
+  "10:00 AM": "P",
+  "Column12": "21B11HS271",
+  "Column13": " CS26 ",
+  "Column15": "GDROOM",
+  "11:00 AM": "L",
+  "Column17": "18B11MA211",
+  "Column18": " CS26 ",
+  "Column20": "TR4",
+  "1:00 PM": "P",
+  "Column27": "18B17EC271",
+  "Column28": " CS23 ",
+  "Column30": "ECL2",
+  "2:00 PM": "P",
+  "Column32": "18B17EC271",
+  "Column33": " CS23 ",
+  "Column35": "ECL2"
+ },
+ {
+  "Column4": 6,
+  "9:00 AM": "P",
+  "Column7": "21B11HS271",
+  "Column8": " CS28 ",
+  "Column10": "LANGULAB",
+  "10:00 AM": "P",
+  "Column12": "21B11HS271",
+  "Column13": " CS28 ",
+  "Column15": "LANGULAB",
+  "11:00 AM": "L",
+  "Column17": "18B11MA211",
+  "Column18": " CS29 ",
+  "Column20": "TR5",
+  "1:00 PM": "P",
+  "Column27": "18B17CI271",
+  "Column28": " CS26 ",
+  "Column30": "CL6",
+  "2:00 PM": "P",
+  "Column32": "18B17CI271",
+  "Column33": " CS26 ",
+  "Column35": "CL6"
+ },
+ {
+  "Column4": 7,
+  "9:00 AM": "P",
+  "Column7": "18B17EC271",
+  "Column8": " CS25 ",
+  "Column10": "ECL2",
+  "10:00 AM": "P",
+  "Column12": "18B17EC271",
+  "Column13": " CS25 ",
+  "Column15": "ECL2",
+  "11:00 AM": "L",
+  "Column17": "18B11MA211",
+  "Column18": " CS24 ",
+  "Column20": "TR6",
+  "1:00 PM": "P",
+  "Column27": "18B17GE173",
+  "Column28": " IT21 ",
+  "Column30": "DRAWR",
+  "2:00 PM": "P",
+  "Column32": "18B17GE173",
+  "Column33": " IT21 ",
+  "Column35": "DRAWR",
+  "3:00 PM": "P",
+  "Column37": "18B17GE173",
+  "Column38": " IT21 ",
+  "Column40": "DRAWR"
+ },
+ {
+  "Column4": 8,
+  "9:00 AM": "P",
+  "Column7": "18B17GE173",
+  "Column8": " CS27 ",
+  "Column10": "DRAWR",
+  "10:00 AM": "P",
+  "Column12": "18B17GE173",
+  "Column13": " CS27 ",
+  "Column15": "DRAWR",
+  "11:00 AM": "P",
+  "Column17": "18B17GE173",
+  "Column18": " CS27 ",
+  "Column20": "DRAWR",
+  "2:00 PM": "L",
+  "Column32": "18B11CI211",
+  "Column33": " CS25 ",
+  "Column35": "TR2",
+  "3:00 PM": "P",
+  "Column37": "18B17GE173",
+  "Column38": " IT22 ",
+  "Column40": "DRAWR1",
+  "4:00 PM": "P",
+  "Column42": "18B17GE173",
+  "Column43": " IT22 ",
+  "Column45": "DRAWR1",
+  "5:00 PM": "P",
+  "Column47": "18B17GE173",
+  "Column48": " IT22 ",
+  "Column50": "DRAWR1"
+ },
+ {
+  "Column4": 9,
+  "10:00 AM": "L",
+  "Column12": "18B11CI211",
+  "Column13": " CS24 ",
+  "Column15": "TR2",
+  "2:00 PM": "L",
+  "Column32": "18B11EC211",
+  "Column33": " CS24 ",
+  "Column35": "TR5"
+ },
+ {
+  "Column4": 10,
+  "2:00 PM": "P",
+  "Column32": "18B17GE171",
+  "Column33": " BI21,BT21 ",
+  "Column35": "WORKLAB",
+  "3:00 PM": "P",
+  "Column37": "18B17GE171",
+  "Column38": " BI21,BT21 ",
+  "Column40": "WORKLAB",
+  "4:00 PM": "P",
+  "Column42": "18B17GE171",
+  "Column43": " BI21,BT21 ",
+  "Column45": "WORKLAB"
+ },
+ {
+  "Column4": 11,
+  "3:00 PM": "L",
+  "Column37": "18B11EC211",
+  "Column38": " CS22 ",
+  "Column40": "TR6"
+ },
+ {
+  "Column4": 12,
+  "3:00 PM": "L",
+  "Column37": "18B11MA211",
+  "Column38": " CS23 ",
+  "Column40": "TR7"
+ },
+ {
+  "Column4": 13,
+  "3:00 PM": "P",
+  "Column37": "18B17EC271",
+  "Column38": " CS210 ",
+  "Column40": "ECL2",
+  "4:00 PM": "P",
+  "Column42": "18B17EC271",
+  "Column43": " CS210 ",
+  "Column45": "ECL2"
+ },
+ {
+  "Column4": 14,
+  "3:00 PM": "P",
+  "Column37": "18B17CI271",
+  "Column38": " CS21 ",
+  "Column40": "CL11",
+  "4:00 PM": "P",
+  "Column42": "18B17CI271",
+  "Column43": " CS21 ",
+  "Column45": "CL11"
+ },
+ {
+  "Column4": 15
+ },
+ {
+  "Column4": 16
+ },
+ {
+  "Column4": 1,
+  "TIME": "FRI",
+  "9:00 AM": "L",
+  "Column7": "21B11HS211",
+  "Column8": " CS24-CS26 ",
+  "Column10": "LT2",
+  "10:00 AM": "L",
+  "Column12": "21B11HS211",
+  "Column13": " CS210,IT21-IT22,EC21,EM21,CE21,BI21,BT21 ",
+  "Column15": "LT1",
+  "11:00 AM": "L",
+  "Column17": "18B11PH211",
+  "Column18": " CS24-CS26 ",
+  "Column20": "LT2",
+  "2:00 PM": "L",
+  "Column32": "18B11EC211",
+  "Column33": " CS24-CS26 ",
+  "Column35": "CR2",
+  "3:00 PM": "L",
+  "Column37": "18B11CI211",
+  "Column38": " CS21-CS23 ",
+  "Column40": "LT2"
+ },
+ {
+  "Column4": 2,
+  "9:00 AM": "L",
+  "Column7": "18B11EC212",
+  "Column8": " BI21,BT21 ",
+  "Column9": "PRG",
+  "Column10": "CR7",
+  "10:00 AM": "L",
+  "Column12": "18B11MA211",
+  "Column13": " CS24-CS26 ",
+  "Column15": "LT2",
+  "11:00 AM": "L",
+  "Column17": "18B11EC211",
+  "Column18": " CS210,IT21-IT22,EC21,EM21,CE21 ",
+  "Column20": "CR1",
+  "1:00 PM": "P",
+  "Column27": "21B11HS271",
+  "Column28": " IT22 ",
+  "Column30": "GDROOM",
+  "2:00 PM": "P",
+  "Column32": "21B11HS271",
+  "Column33": " IT22 ",
+  "Column35": "GDROOM"
+ },
+ {
+  "Column4": 3,
+  "9:00 AM": "L",
+  "Column7": "18B11MA211",
+  "Column8": " IT21 ",
+  "Column10": "CR9",
+  "10:00 AM": "L",
+  "Column12": "18B11CI211",
+  "Column13": " CS27 ",
+  "Column15": "CR7",
+  "11:00 AM": "L",
+  "Column17": "18B11WPH21",
+  "Column18": " BI21, BT21 ",
+  "Column20": "CR5",
+  "1:00 PM": "P",
+  "Column27": "21B11HS271",
+  "Column28": " EC21,EM21,CE21 ",
+  "Column30": "LANGULAB",
+  "2:00 PM": "P",
+  "Column32": "21B11HS271",
+  "Column33": " EC21,EM21,CE21 ",
+  "Column35": "LANGULAB"
+ },
+ {
+  "Column4": 4,
+  "9:00 AM": "T",
+  "Column7": "18B11EC211",
+  "Column8": " CS210 ",
+  "Column9": "SRU",
+  "Column10": "TR1",
+  "11:00 AM": "L",
+  "Column17": "18B11MA211",
+  "Column18": " CS27 ",
+  "Column20": "CR16",
+  "1:00 PM": "P",
+  "Column27": "18B17CI271",
+  "Column28": " IT21 ",
+  "Column30": "CL5_1",
+  "2:00 PM": "P",
+  "Column32": "18B17CI271",
+  "Column33": " IT21 ",
+  "Column35": "CL5_1",
+  "3:00 PM": "P",
+  "Column37": "18B17CI271",
+  "Column38": " CS27 ",
+  "Column40": "CL11",
+  "4:00 PM": "P",
+  "Column42": "18B17CI271",
+  "Column43": " CS27 ",
+  "Column45": "CL11"
+ },
+ {
+  "Column4": 5,
+  "9:00 AM": "L",
+  "Column7": "18B11EC211",
+  "Column8": " CS27 ",
+  "Column10": "TR4",
+  "11:00 AM": "P",
+  "Column17": "18B17EC271",
+  "Column18": " CS29 ",
+  "Column20": "ECL1",
+  "12:00 PM": "P",
+  "Column22": "18B17EC271",
+  "Column23": " CS29 ",
+  "Column25": "ECL1",
+  "2:00 PM": "L",
+  "Column32": "18B11CI211",
+  "Column33": " CS22 ",
+  "Column35": "TR2",
+  "3:00 PM": "P",
+  "Column37": "18B17PH271",
+  "Column38": "  CS26 ",
+  "Column40": "PHLAB1",
+  "4:00 PM": "P",
+  "Column42": "18B17PH271",
+  "Column43": "  CS26 ",
+  "Column45": "PHLAB1"
+ },
+ {
+  "Column4": 6,
+  "9:00 AM": "P",
+  "Column7": "18B17PH271",
+  "Column8": "  CS22 ",
+  "Column10": "PHLAB1",
+  "10:00 AM": "P",
+  "Column12": "18B17PH271",
+  "Column13": "  CS22 ",
+  "Column15": "PHLAB1",
+  "11:00 AM": "P",
+  "Column17": "18B17CI271",
+  "Column18": " CS22 ",
+  "Column20": "CL4",
+  "12:00 PM": "P",
+  "Column22": "18B17CI271",
+  "Column23": " CS22 ",
+  "Column25": "CL4",
+  "2:00 PM": "L",
+  "Column32": "18B11CI211",
+  "Column33": " CS28 ",
+  "Column35": "TR4",
+  "3:00 PM": "P",
+  "Column37": "18B17PH271",
+  "Column38": "  CS210 ",
+  "Column40": "PHLAB2",
+  "4:00 PM": "P",
+  "Column42": "18B17PH271",
+  "Column43": "  CS210 ",
+  "Column45": "PHLAB2"
+ },
+ {
+  "Column4": 7,
+  "9:00 AM": "P",
+  "Column7": "18B17PH271",
+  "Column8": "  CS28 ",
+  "Column10": "PHLAB2",
+  "10:00 AM": "P",
+  "Column12": "18B17PH271",
+  "Column13": "  CS28 ",
+  "Column15": "PHLAB2",
+  "11:00 AM": "P",
+  "Column17": "18B17CI271",
+  "Column18": " CS23 ",
+  "Column20": "CL6",
+  "12:00 PM": "P",
+  "Column22": "18B17CI271",
+  "Column23": " CS23 ",
+  "Column25": "CL6",
+  "2:00 PM": "L",
+  "Column32": "18B11EC212",
+  "Column33": " BI21,BT21 ",
+  "Column35": "TR5"
+ },
+ {
+  "Column4": 8,
+  "11:00 AM": "P",
+  "Column17": "18B17CI271",
+  "Column18": " CS28 ",
+  "Column20": "CL11",
+  "12:00 PM": "P",
+  "Column22": "18B17CI271",
+  "Column23": " CS28 ",
+  "Column25": "CL11",
+  "2:00 PM": "P",
+  "Column32": "18B17GE173",
+  "Column33": " CS29 ",
+  "Column35": "DRAWR",
+  "3:00 PM": "P",
+  "Column37": "18B17GE173",
+  "Column38": " CS29 ",
+  "Column40": "DRAWR",
+  "4:00 PM": "P",
+  "Column42": "18B17GE173",
+  "Column43": " CS29 ",
+  "Column45": "DRAWR"
+ },
+ {
+  "Column4": 9,
+  "10:00 AM": "L",
+  "Column12": "18B11CI211",
+  "Column13": " CS23 ",
+  "Column15": "TR1",
+  "12:00 PM": "L",
+  "Column22": "18B11MA211",
+  "Column23": " CS210 ",
+  "Column25": "TR5",
+  "3:00 PM": "L",
+  "Column37": "18B11EC211",
+  "Column38": " CS28 ",
+  "Column40": "TR4"
+ },
+ {
+  "Column4": 10,
+  "9:00 AM": "P",
+  "Column7": "18B17GE173",
+  "Column8": " CS21 ",
+  "Column10": "DRAWR",
+  "10:00 AM": "P",
+  "Column12": "18B17GE173",
+  "Column13": " CS21 ",
+  "Column15": "DRAWR",
+  "11:00 AM": "P",
+  "Column17": "18B17GE173",
+  "Column18": " CS21 ",
+  "Column20": "DRAWR",
+  "3:00 PM": "P",
+  "Column37": "18B17EC271",
+  "Column38": " IT22 ",
+  "Column40": "ECL1",
+  "4:00 PM": "P",
+  "Column42": "18B17EC271",
+  "Column43": " IT22 ",
+  "Column45": "ECL1"
+ },
+ {
+  "Column4": 11,
+  "3:00 PM": "P",
+  "Column37": "18B17EC271",
+  "Column38": " CS24 ",
+  "Column40": "ECL2",
+  "4:00 PM": "P",
+  "Column42": "18B17EC271",
+  "Column43": " CS24 ",
+  "Column45": "ECL2"
+ },
+ {
+  "Column4": 12,
+  "3:00 PM": "P",
+  "Column37": "18B17CI271",
+  "Column38": " BI21,BT21 ",
+  "Column40": "CL1",
+  "4:00 PM": "P",
+  "Column42": "18B17CI271",
+  "Column43": " BI21,BT21 ",
+  "Column45": "CL1"
+ },
+ {
+  "Column4": 13,
+  "3:00 PM": "P",
+  "Column37": "18B17CI271",
+  "Column38": " CS25 ",
+  "Column40": "CL7",
+  "4:00 PM": "P",
+  "Column42": "18B17CI271",
+  "Column43": " CS25 ",
+  "Column45": "CL7"
+ },
+ {
+  "Column4": 14,
+  "3:00 PM": "P",
+  "Column37": "18B17CI271",
+  "Column38": " EC21,EM21,CE21 ",
+  "Column40": "CL9_2",
+  "4:00 PM": "P",
+  "Column42": "18B17CI271",
+  "Column43": " EC21,EM21,CE21 ",
+  "Column45": "CL9_2"
+ },
+ {
+  "Column4": 15
+ },
+ {
+  "Column4": 16
+ },
+ {
+  "Column4": 1,
+  "TIME": "SAT",
+  "9:00 AM": "L",
+  "Column7": "21B11HS211",
+  "Column8": " CS21-CS23 ",
+  "Column10": "LT2",
+  "10:00 AM": "L",
+  "Column12": "18B11PH211",
+  "Column13": " CS21-CS23 ",
+  "Column15": "LT1",
+  "11:00 AM": "L",
+  "Column17": "18B11MA211",
+  "Column18": " CS21-CS23 ",
+  "Column20": "LT1"
+ },
+ {
+  "Column4": 2,
+  "11:00 AM": "P",
+  "Column17": "18B17CI271",
+  "Column18": " CS29 ",
+  "Column20": "CL5_1",
+  "12:00 PM": "P",
+  "Column22": "18B17CI271",
+  "Column23": " CS29 ",
+  "Column25": "CL5_1"
+ },
+ {
+  "Column4": 3,
+  "9:00 AM": "P",
+  "Column7": "18B17GE173",
+  "Column8": " CS26 ",
+  "Column10": "DRAWR",
+  "10:00 AM": "P",
+  "Column12": "18B17GE173",
+  "Column13": " CS26 ",
+  "Column15": "DRAWR",
+  "11:00 AM": "P",
+  "Column17": "18B17GE173",
+  "Column18": " CS26 ",
+  "Column20": "DRAWR"
+ },
+ {
+  "Column4": 4
+ },
+ {
+  "Column4": 5
+ },
+ {
+  "Column4": 6
+ },
+ {
+  "Column4": 7
+ },
+ {
+  "Column4": 8
+ },
+ {
+  "Column4": 9
+ },
+ {
+  "Column4": 10
+ },
+ {
+  "Column4": 11
+ },
+ {
+  "Column4": 12
+ },
+ {
+  "Column4": 13
+ },
+ {
+  "Column4": 14
+ },
+ {
+  "Column4": 15
+ },
+ {
+  "Column4": 16
+ }
+],
+"BTECH 2 SEM":[
+ {
+  "TIME TABLE: (BTECH 2 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "D\/T",
+  "Column2": "09:00 AM - 09:55 AM",
+  "Column3": "10:00 AM - 10:55 AM",
+  "Column4": "11:00 AM - 11:55 AM",
+  "Column5": "12:00 PM - 12:55PM",
+  "Column6": "01:00 PM - 01:55 PM",
+  "Column7": "02:00 PM - 02:55 PM",
+  "Column8": "03:00 PM - 03:55 PM",
+  "Column9": "04:00PM - 04:55 PM",
+  "Column10": "05:00PM - 05:55 PM"
+ },
+ {
+  "TIME TABLE: (BTECH 2 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "MON",
+  "Column2": "L-18B11CI211  CS24,CS25,CS26  (RBT) CR1",
+  "Column3": "L-18B11MA211  CS24,CS25,CS26  (RAD) CR1",
+  "Column4": "L-18B11PH211  CS24,CS25,CS26  (VSA) LT2",
+  "Column5": "T-18B11EC211  CS23  (EMP) CR18",
+  "Column6": "L-18B11CI211  CS27,CS28,CS29  (AVA) LT2",
+  "Column7": "L-18B11MA211  CS210,CS211,CS212  (RAD) CR2",
+  "Column11": 1
+ },
+ {
+  "Column2": "L-18B11EC211  CS210,CS211,CS212  (SRU) CR2",
+  "Column7": "L-18B11PH211  CS27,CS28,CS29  (HAZ) LT2",
+  "Column8": "L-18B11EC211  CS27,CS28,CS29  (EMP) CR1",
+  "Column11": 2
+ },
+ {
+  "Column2": "L-18B11MA212  BI21,BT21  (MDS) CR7",
+  "Column4": "L-18B11EC212  BI21,BT21  (PRG) CR12",
+  "Column5": "L-18B11CI211  IT21-IT22  (EGA) CR5",
+  "Column7": "L-18B11EC211  CS21,CS22,CS23   (EMP) LT1",
+  "Column8": "T-18B11MA211 CS24 (RAD) TR4",
+  "Column11": 3
+ },
+ {
+  "Column3": "L-18B11CI211  CS210,CS211,CS212  (SSA) CR9",
+  "Column4": "T-18B11CI211  IT21  (EGA) CR8",
+  "Column7": "L-21B11HS211 IT21,IT22  (DLR) CR16",
+  "Column8": "P-18B17PH271   CS211  (SBA) PHLAB2",
+  "Column9": "P-18B17PH271   CS211   (SBA) PHLAB2",
+  "Column11": 4
+ },
+ {
+  "Column2": "P-21B11HS271  CS27  (DLR) GDROOM",
+  "Column3": "P-21B11HS271  CS27  (DLR) GDROOM",
+  "Column4": "P-18B17CI271  CS211  (ABS) CL8_1",
+  "Column5": "P-18B17CI271  CS211  (ABS) CL8_1",
+  "Column7": "L-18B11CI211  EC21,EM21,CE21,CC21,BI21,BT21 (RIV) CR19",
+  "Column8": "P-18B17PH271   EC21,EM21,CE21,CC21 (SKT) PHLAB1",
+  "Column9": "P-18B17PH271   EC21,EM21,CE21,CC21 (SKT) PHLAB1",
+  "Column11": 5
+ },
+ {
+  "Column2": "P-18B17EC271  CS22  (RKU) ECL3",
+  "Column3": "P-18B17EC271  CS22  (RKU) ECL3",
+  "Column4": "P-21B11HS271  CS210  (ANU) CR4",
+  "Column5": "P-21B11HS271  CS210  (ANU) CR4",
+  "Column8": "P-18B17EC271  CS26  (HSL) ECL2",
+  "Column9": "P-18B17EC271  CS26  (HSL) ECL2",
+  "Column11": 6
+ },
+ {
+  "Column2": "P-18B17PH271   CS21  (SKT) PHLAB1",
+  "Column3": "P-18B17PH271   CS21  (SKT) PHLAB1",
+  "Column4": "P-18B17CI271 CS22 (NTS) CL1",
+  "Column5": "P-18B17CI271  CS22  (NTS) CL1",
+  "Column7": "P-18B17GE173  CS25  (ADP) DRAWR",
+  "Column8": "P-18B17GE173  CS25  (ADP) DRAWR",
+  "Column9": "P-18B17GE173  CS25  (ADP) DRAWR",
+  "Column11": 7
+ },
+ {
+  "Column2": "P-18B17GE171  IT22  (RRA) WORKLAB",
+  "Column3": "P-18B17GE171  IT22  (RRA) WORKLAB",
+  "Column4": "P-18B17GE171  IT22  (RRA) WORKLAB",
+  "Column6": "T-18B11CI211  CS26  (RBT) TR2",
+  "Column8": "P-18B17CI271  CS22  (RIV) CL3_2",
+  "Column9": "P-18B17CI271  CS22  (RIV) CL3_2",
+  "Column11": 8
+ },
+ {
+  "Column3": "L-18B11PH212  BI21, BT21  (RRS) CR16",
+  "Column6": "T-18B11EC212  BI21,BT21  (PRG) CR12",
+  "Column8": "P-21B11HS271 BT21  (TNS) GDROOM",
+  "Column9": "P-21B11HS271 BT21  (TNS) GDROOM",
+  "Column11": 9
+ },
+ {
+  "Column4": "T-18B11CI211  CS212  (SSA) TR4",
+  "Column8": "P-21B11HS271  CS23  (NJL) CR17",
+  "Column9": "P-21B11HS271  CS23  (NJL) CR17",
+  "Column11": 10
+ },
+ {
+  "Column2": "P-18B17GE173  CS23  (ADP) DRAWR",
+  "Column3": "P-18B17GE173  CS23  (ADP) DRAWR",
+  "Column4": "P-18B17GE173  CS23  (ADP) DRAWR",
+  "Column6": "T-18B11EC211  CS25  (SRU) TR6",
+  "Column8": "T-18B11MA211  CS21  (NKT) TR2",
+  "Column11": 11
+ },
+ {
+  "Column4": "L-18B11MA211  CS27,CS28,CS29  (KAS) LT1",
+  "Column5": "L-18B11MA211  EC21,EM21,CE21,CC21  (SST) CR6",
+  "Column8": "P-18B17CI271 CS212  (NTS) CL5_1",
+  "Column9": "P-18B17CI271 CS212  (NTS) CL5_1",
+  "Column11": 12
+ },
+ {
+  "Column8": "P-18B17CI271  IT22  (EGA) CL4",
+  "Column9": "P-18B17CI271  IT22  (EGA) CL4",
+  "Column11": 13
+ },
+ {
+  "Column11": 14
+ },
+ {
+  "Column2": "P-18B17EC271  EC21,EM21,CE21,CC21   (EMP) ECL1",
+  "Column3": "P-18B17EC271  EC21,EM21,CE21,CC21   (EMP) ECL1",
+  "Column4": "P-18B17CI271  CS21  (PKG) CL11",
+  "Column5": "P-18B17CI271  CS21  (PKG) CL11",
+  "Column6": "P-18B17PH271   CS24  (SKT) PHLAB1",
+  "Column7": "P-18B17PH271   CS24  (SKT) PHLAB1",
+  "Column8": "P-18B17EC271  IT21  (MSD) ECL1",
+  "Column9": "P-18B17EC271  IT21  (MSD) ECL1",
+  "Column11": 15
+ },
+ {
+  "Column11": 16
+ },
+ {
+  "TIME TABLE: (BTECH 2 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "TUE",
+  "Column6": "L-18B11CI211  CS27,CS28,CS29  (AVA) LT2",
+  "Column7": "L-18B11PH211  CS27,CS28,CS29  (HAZ) LT1",
+  "Column11": 1
+ },
+ {
+  "Column2": "L-18B11MA211  IT21-IT22  (NKT) CR5",
+  "Column3": "L-18B11PH211  CS21,CS22,CS23   (PBB) LT1",
+  "Column4": "L-18B11PH211 EC21,EM21,CE21,CC21   (SKK) CR7",
+  "Column5": "T-18B11EC211  CS21  (EMP) CR18",
+  "Column6": "P-21B11HS271  CS24  (TGM) GDROOM",
+  "Column7": "P-21B11HS271  CS24  (TGM) GDROOM",
+  "Column11": 2
+ },
+ {
+  "Column2": "L-18B11MA212  BI21,BT21  (MDS) CR7",
+  "Column3": "L-18B11PH211 IT21-IT22  (SBA) CR10",
+  "Column8": "T-18B11MA211  CS22  (NKT) TR7",
+  "Column9": "T-18B11MA211  CS26  (PKP) TR5",
+  "Column11": 3
+ },
+ {
+  "Column2": "P-21B11HS271  CS25  (ANU) LT2",
+  "Column3": "P-21B11HS271  CS25  (ANU) LT2",
+  "Column8": "P-18B17CI271  IT21  (EGA) CL8_2",
+  "Column9": "P-18B17CI271  IT21  (EGA) CL8_2",
+  "Column11": 4
+ },
+ {
+  "Column2": "P-21B11HS271  CS29  (DLR) GDROOM",
+  "Column3": "P-21B11HS271  CS29  (DLR) GDROOM",
+  "Column4": "L-18B11MA211  CS21,CS22,CS23   (NKT) LT2",
+  "Column6": "P-18B17CI271  CS25  (NSA) CL7",
+  "Column7": "P-18B17CI271  CS25  (NSA) CL7",
+  "Column9": "L-18B11CI211  CS21,CS22,CS23   (PKG) LT2",
+  "Column11": 5
+ },
+ {
+  "Column2": "P-18B17PH271   CS26  (HAZ) PHLAB1",
+  "Column3": "P-18B17PH271   CS26  (HAZ) PHLAB1",
+  "Column4": "P-18B17CI271  IT22  (EGA) CL9_2",
+  "Column5": "P-18B17CI271  IT22  (EGA) CL9_2",
+  "Column7": "P-18B17GE173  CS211  (NJP) DRAWR",
+  "Column8": "P-18B17GE173  CS211  (NJP) DRAWR",
+  "Column9": "P-18B17GE173  CS211  (NJP) DRAWR",
+  "Column10": "L-18B11EC211 BACK (SWT) CR7",
+  "Column11": 6
+ },
+ {
+  "Column3": "L-18B11EC211  EC21,EM21,CE21,CC21  (PRG) CR5",
+  "Column4": "P-21B11HS271  CS26  (ANU) LT1",
+  "Column5": "P-21B11HS271  CS26  (ANU) LT1",
+  "Column7": "P-18B17GE171  EC21,EM21,CE21,CC21,CS24-221031028 (SUB) WORKLAB",
+  "Column8": "P-18B17GE171  EC21,EM21,CE21,CC21,CS24-221031028 (SUB) WORKLAB",
+  "Column9": "P-18B17GE171  EC21,EM21,CE21,CC21,CS24-221031028 (SUB) WORKLAB",
+  "Column11": 7
+ },
+ {
+  "Column2": "P-18B17GE173  CS27  (SUV) DRAWR",
+  "Column3": "P-18B17GE173  CS27  (SUV) DRAWR",
+  "Column4": "P-18B17GE173  CS27  (SUV) DRAWR",
+  "Column5": "T-18B11MA211  EC21,EM21,CE21,CC21  (SST) CR17",
+  "Column7": "T-18B11CI211  BT21,BI21  (RIV) CR8",
+  "Column8": "P-18B17EC272  BI21,BT21  (MSD) ECL2",
+  "Column9": "P-18B17EC272  BI21,BT21  (MSD) ECL2",
+  "Column11": 8
+ },
+ {
+  "Column3": "T-18B11MA212  BI21,BT21  (MDS) CR9",
+  "Column4": "L-18B11PH211  CS210,CS211,CS212   (SKT) CR2",
+  "Column7": "L-18B11EC211  CS21,CS22,CS23   (EMP) CR7",
+  "Column8": "P-18B17PH271   CS29  (SBA) PHLAB2",
+  "Column9": "P-18B17PH271   CS29  (SBA) PHLAB2",
+  "Column11": 9
+ },
+ {
+  "Column2": "T-18B11CI211  EC21,EM21,CE21,CC21  (RIV) CR16",
+  "Column4": "T-18B11MA211 CS25 (RAD) TR4",
+  "Column7": "L-18B11EC211  IT21,IT22  (PRG) CR4",
+  "Column8": "L-18B11EC211  CS24,CS25,CS26  (SRU) CR2",
+  "Column11": 10
+ },
+ {
+  "Column3": "T-18B11CI211  CS24  (RBT) TR4",
+  "Column8": "T-18B11CI211  CS21  (PKG) TR1",
+  "Column11": 11
+ },
+ {
+  "Column2": "T-18B11EC211  CS24  (SRU) TR6",
+  "Column3": "L-18B11MA211  CS210,CS211,CS212  (RAD) CR2",
+  "Column4": "T-18B11WPH21  BI21, BT21  (RRS) CR9",
+  "Column7": "P-18B17PH271 CS212  (VSA) PHLAB1",
+  "Column8": "P-18B17PH271 CS212  (VSA) PHLAB1",
+  "Column11": 12
+ },
+ {
+  "Column3": "T-18B11MA211  CS28  (KAS) TR6",
+  "Column4": "P-18B17PH271   IT21  (SBA) PHLAB2",
+  "Column5": "P-18B17PH271   IT21  (SBA) PHLAB2",
+  "Column8": "P-18B17EC271  CS210  (PRG ) ECL1",
+  "Column9": "P-18B17EC271  CS210  (PRG) ECL1",
+  "Column11": 13
+ },
+ {
+  "Column11": 14
+ },
+ {
+  "Column8": "P-18B17EC271  CS28  (NFK) ECL3",
+  "Column9": "P-18B17EC271  CS28  (NFK) ECL3",
+  "Column11": 15
+ },
+ {
+  "Column11": 16
+ },
+ {
+  "TIME TABLE: (BTECH 2 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "WED",
+  "Column2": "L-18B11EC211  CS27,CS28,CS29  (EMP) CR1",
+  "Column3": "L-18B11MA211  CS24,CS25,CS26  (RAD) CR1",
+  "Column4": "L-18B11PH211  CS24,CS25,CS26  (VSA) LT2",
+  "Column8": "P-18B17CI271 BI21,BT21,EC21,EM21,CE21,CC21  (RIV) LANGULAB",
+  "Column9": "P-18B17CI271 BI21,BT21,EC21,EM21,CE21,CC21  (RIV) LANGULAB",
+  "Column11": 1
+ },
+ {
+  "Column2": "L-18B11CI211  CS24,CS25,CS26  (RBT) CR2",
+  "Column3": "L-18B11PH211 EC21,EM21,CE21,CC21   (SKK) TR1",
+  "Column7": "L-18B11EC211  CS24,CS25,CS26  (SRU) CR4",
+  "Column8": "L-18B11EC211  CS21,CS22,CS23   (EMP) CR7",
+  "Column11": 2
+ },
+ {
+  "Column3": "L-21B11HS211  CS27,CS28,CS29  (DLR) CR9",
+  "Column5": "L-18B11MA211 EC21,EM21,CE21,CC21 (SST) CR6",
+  "Column7": "L-18B11CI211  EC21,EM21,CE21,CC21,BI21,BT21 (RIV) CR19",
+  "Column8": "P-18B17CI271  CS211  (EGA) CL6",
+  "Column9": "P-18B17CI271  CS211  (EGA) CL6",
+  "Column10": "T-18B11EC211 BACK (SWT) CR7",
+  "Column11": 3
+ },
+ {
+  "Column2": "L-18B11CI211  CS210,CS211,CS212  (SSA) CR9",
+  "Column4": "P-21B11HS271  IT21  (NJL) GDROOM",
+  "Column5": "P-21B11HS271  IT21  (NJL) GDROOM",
+  "Column7": "P-18B17GE173  CS28  (NJP) DRAWR",
+  "Column8": "P-18B17GE173  CS28  (NJP) DRAWR",
+  "Column9": "P-18B17GE173  CS28  (NJP) DRAWR",
+  "Column11": 4
+ },
+ {
+  "Column2": "P-18B17EC271  CS21  (RKU) ECL3",
+  "Column3": "P-18B17EC271  CS21  (RKU) ECL3",
+  "Column4": "P-21B11HS271  CS21  (TNS) CR17",
+  "Column5": "P-21B11HS271  CS21  (TNS) CR17",
+  "Column7": "L-21B11HS211  CS21,CS22,CS23   (TNS) CR8",
+  "Column8": "P-18B17EC271  IT22  (SRU) ECL1",
+  "Column9": "P-18B17EC271  IT22  (SRU) ECL1",
+  "Column11": 5
+ },
+ {
+  "Column2": "P-18B17PH271   CS23  (SKT) PHLAB1",
+  "Column3": "P-18B17PH271   CS23  (SKT) PHLAB1",
+  "Column4": "P-18B17CI271  CS23  (AMN) CL6",
+  "Column5": "P-18B17CI271  CS23  (AMN) CL6",
+  "Column11": 6
+ },
+ {
+  "Column3": "L-18B11PH212  BI21, BT21  (RRS) CR16",
+  "Column4": "T-18B11EC211  EC21,EM21,CE21,CC21 (PRG) CR16",
+  "Column7": "P-18B17GE171  IT21  (RRA) WORKLAB",
+  "Column8": "P-18B17GE171  IT21  (RRA) WORKLAB",
+  "Column9": "P-18B17GE171  IT21  (RRA) WORKLAB",
+  "Column11": 7
+ },
+ {
+  "Column2": "T-18B11MA211  IT21  (NKT) TR6",
+  "Column3": "L-18B11PH211 IT21-IT22  (SBA) CR7",
+  "Column4": "L-18B11MA211  CS27,CS28,CS29  (KAS) LT1",
+  "Column8": "P-18B17CI271  CS26  (ABS) CL10",
+  "Column9": "P-18B17CI271  CS26  (ABS) CL10",
+  "Column11": 8
+ },
+ {
+  "Column5": "T-18B11EC211  CS26  (SRU) TR6",
+  "Column8": "P-18B17CI271  CS24  (RBT) CL7",
+  "Column9": "P-18B17CI271  CS24  (RBT) CL7",
+  "Column11": 9
+ },
+ {
+  "Column2": "P-18B17GE173  CS22  (ABJ) DRAWR",
+  "Column3": "P-18B17GE173  CS22  (ABJ) DRAWR",
+  "Column4": "P-18B17GE173  CS22  (ABJ) DRAWR",
+  "Column8": "P-18B17CI271  CS210  (SSA) CL8_2",
+  "Column9": "P-18B17CI271  CS210  (SSA) CL8_2",
+  "Column11": 10
+ },
+ {
+  "Column2": "L-18B11MA212  BI21,BT21  (MDS) CR7",
+  "Column4": "L-18B11PH211  CS210,CS211,CS212   (SKT) CR2",
+  "Column5": "L-21B11HS211  CS210,CS211,CS212   (DLR) CR7",
+  "Column8": "P-18B17CI271  CS27  (AVA) CL5_2",
+  "Column9": "P-18B17CI271  CS27  (AVA) CL5_2",
+  "Column11": 11
+ },
+ {
+  "Column3": "L-18B11EC211  CS210,CS211,CS212  (SRU) LT2",
+  "Column11": 12
+ },
+ {
+  "Column5": "T-18B11CI211  IT22  (EGA) TR5",
+  "Column6": "T-18B11CI211  CS25  (RBT) TR2",
+  "Column8": "P-18B17PH271   CS25  (PBB) PHLAB1",
+  "Column9": "P-18B17PH271   CS25  (PBB) PHLAB1",
+  "Column11": 13
+ },
+ {
+  "Column11": 14
+ },
+ {
+  "Column8": "P-18B17EC271  CS29  (PRG) ECL2",
+  "Column9": "P-18B17EC271  CS29  (PRG) ECL2",
+  "Column11": 15
+ },
+ {
+  "Column11": 16
+ },
+ {
+  "TIME TABLE: (BTECH 2 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "THU",
+  "Column3": "L-18B11PH211  CS21,CS22,CS23   (PBB) LT1",
+  "Column4": "L-18B11MA211  CS21,CS22,CS23   (NKT) LT2",
+  "Column7": "L-18B11PH211  CS27,CS28,CS29  (HAZ) LT1",
+  "Column8": "L-18B11CI211  CS27,CS28,CS29  (AVA) CR1",
+  "Column11": 1
+ },
+ {
+  "Column6": "L-18B11CI211  CS24,CS25,CS26  (RBT) CR8",
+  "Column7": "T-18B11MA211  IT22  (NKT) CR12",
+  "Column11": 2
+ },
+ {
+  "Column2": "L-18B11EC212  BI21,BT21  (PRG) CR12",
+  "Column3": "T-18B11CI211  CS29  (AVA) CR9",
+  "Column9": "T-18B11MA211  CS23  (NKT) TR7",
+  "Column10": "L-18B11EC211 BACK (SWT) CR7",
+  "Column11": 3
+ },
+ {
+  "Column2": "L-18B11MA211  IT21-IT22  (NKT) CR5",
+  "Column6": "P-21B11HS271  CS22  (DLR) GDROOM",
+  "Column7": "P-21B11HS271  CS22  (DLR) GDROOM",
+  "Column11": 4
+ },
+ {
+  "Column6": "P-18B17EC271  CS23  (HSL) ECL2",
+  "Column7": "P-18B17EC271  CS23  (HSL) ECL2",
+  "Column9": "L-18B11EC211  CS27,CS28,CS29  (EMP) CR1",
+  "Column11": 5
+ },
+ {
+  "Column2": "P-18B17PH271   CS27  (SBA) PHLAB1",
+  "Column3": "P-18B17PH271   CS27  (SBA) PHLAB1",
+  "Column4": "L-18B11MA211  CS27,CS28,CS29  (KAS) LT1",
+  "Column7": "P-18B17CI271  IT21  (EGA) CL10",
+  "Column8": "P-18B17CI271  IT21  (EGA) CL10",
+  "Column11": 6
+ },
+ {
+  "Column2": "P-18B17EC271  CS25  (HSL) ECL2",
+  "Column3": "P-18B17EC271  CS25  (HSL) ECL2",
+  "Column7": "T-18B11CI211  CS211  (SSA) CR11",
+  "Column11": 7
+ },
+ {
+  "Column3": "L-18B11MA211  CS210,CS211,CS212  (RAD) CR2",
+  "Column4": "T-18B11MA211  CS212  (MDS) CR5",
+  "Column8": "T-18B11EC211 CS211  (SRU) CR2",
+  "Column9": "T-18B11MA211  CS211  (PKP) TR5",
+  "Column11": 8
+ },
+ {
+  "Column2": "L-18B11CI211  CS210,CS211,CS212  (SSA) CR9",
+  "Column5": "T-18B11EC211  CS28  (EMP) TR5",
+  "Column8": "P-18B17CI271  CS25  (NSA) CL1",
+  "Column9": "P-18B17CI271  CS25  (NSA) CL1",
+  "Column11": 9
+ },
+ {
+  "Column3": "L-18B11EC211  IT21,IT22  (PRG) CR4",
+  "Column4": "P-18B17PH271 IT22 (SBA) PHLAB2",
+  "Column5": "P-18B17PH271 IT22 (SBA) PHLAB2",
+  "Column7": "P-18B17GE171  BI21,BT21  (SUB) WORKLAB",
+  "Column8": "P-18B17GE171  BI21,BT21  (SUB) WORKLAB",
+  "Column9": "P-18B17GE171  BI21,BT21  (SUB) WORKLAB",
+  "Column11": 10
+ },
+ {
+  "Column2": "L-18B11CI211  CS21,CS22,CS23   (PKG) LT1",
+  "Column3": "L-21B11HS211 EC21,EM21,CE21,CC21,BI21,BT21  (TNS) LT2",
+  "Column4": "P-21B11HS271 CS211  (NJL) GDROOM",
+  "Column5": "P-21B11HS271 CS211  (NJL) GDROOM",
+  "Column8": "T-18B11EC211  CS22  (EMP) CR18",
+  "Column11": 11
+ },
+ {
+  "Column7": "P-18B17GE173  CS24  (ADP) DRAWR",
+  "Column8": "P-18B17GE173  CS24  (ADP) DRAWR",
+  "Column9": "P-18B17GE173  CS24  (ADP) DRAWR",
+  "Column11": 12
+ },
+ {
+  "Column2": "P-21B11HS271  CS28  (DLR) GDROOM",
+  "Column3": "P-21B11HS271  CS28  (DLR) GDROOM",
+  "Column4": "T-18B11CI211  CS210  (SSA) TR2",
+  "Column8": "P-18B17CI271  CS210  (SSA) CL9_1",
+  "Column9": "P-18B17CI271  CS210  (SSA) CL9_1",
+  "Column11": 13
+ },
+ {
+  "Column8": "P-18B17CI271  CS21  (PKG) CL11",
+  "Column9": "P-18B17CI271  CS21  (PKG) CL11",
+  "Column11": 14
+ },
+ {
+  "Column2": "P-18B17GE173 CS26 (NJP) DRAWR",
+  "Column3": "P-18B17GE173 CS26 (NJP) DRAWR",
+  "Column4": "P-18B17GE173 CS26 (NJP) DRAWR",
+  "Column8": "L-18B11EC211  EC21,EM21,CE21,CC21  (PRG) TR7",
+  "Column9": "T-18B11EC211 CS212  (SRU) TR6",
+  "Column11": 15
+ },
+ {
+  "Column6": "P-18B17GE173 CS212  (ABJ) DRAWR1",
+  "Column7": "P-18B17GE173 CS212  (ABJ) DRAWR1",
+  "Column8": "P-18B17GE173 CS212  (ABJ) DRAWR1",
+  "Column11": 16
+ },
+ {
+  "TIME TABLE: (BTECH 2 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "FRI",
+  "Column2": "L-21B11HS211  CS24,CS25,CS26  (TNS) LT2",
+  "Column4": "L-18B11PH211  CS24,CS25,CS26  (VSA) LT2",
+  "Column7": "L-18B11EC211  CS24,CS25,CS26  (SRU) CR9",
+  "Column8": "L-18B11CI211  CS21,CS22,CS23   (PKG) CR9",
+  "Column10": "L-18B11EC211 BACK (SWT) CR7",
+  "Column11": 1
+ },
+ {
+  "Column3": "L-18B11MA211  CS24,CS25,CS26  (RAD) CR1",
+  "Column4": "L-18B11EC211  CS210,CS211,CS212  (SRU) CR2",
+  "Column6": "P-21B11HS271  IT22  (NJL) GDROOM",
+  "Column7": "P-21B11HS271  IT22  (NJL) GDROOM",
+  "Column11": 2
+ },
+ {
+  "Column2": "L-18B11MA211  IT21-IT22  (NKT) CR5",
+  "Column3": "T-18B11CI211  CS27  (AVA) CR6",
+  "Column4": "P-18B17CI271  CS27  (AVA) CL8",
+  "Column5": "P-18B17CI271  CS27  (AVA) CL8",
+  "Column7": "P-21B11HS271 EC21,EM21,CE21,CC21,BI21 (TNS) CR18",
+  "Column8": "P-21B11HS271 EC21,EM21,CE21,CC21,BI21 (TNS) CR18",
+  "Column11": 3
+ },
+ {
+  "Column2": "T-18B11EC211  CS210  (SRU) TR6",
+  "Column3": "T-18B11MA211  CS29  (KAS) TR4",
+  "Column4": "L-18B11EC212  BI21,BT21  (PRG) CR12",
+  "Column8": "L-18B11EC211  IT21,IT22  (PRG) CR7",
+  "Column11": 4
+ },
+ {
+  "Column2": "T-18B11EC211  CS27  (EMP) TR5",
+  "Column7": "T-18B11CI211  CS22  (PKG) TR1",
+  "Column11": 5
+ },
+ {
+  "Column2": "P-18B17PH271   CS22  (SKT) PHLAB1",
+  "Column3": "P-18B17PH271   CS22  (SKT) PHLAB1",
+  "Column5": "L-18B11PH212  BI21, BT21  (RRS) CR16",
+  "Column7": "T-18B11CI211  CS28  (AVA) TR7",
+  "Column8": "P-18B17PH271   CS210  (SBA) PHLAB2",
+  "Column9": "P-18B17PH271   CS210  (SBA) PHLAB2",
+  "Column11": 6
+ },
+ {
+  "Column2": "P-18B17PH271   CS28  (RRS) PHLAB2",
+  "Column3": "P-18B17PH271   CS28  (RRS) PHLAB2",
+  "Column4": "P-18B17CI271  CS23  (AMN) CL9_1",
+  "Column5": "P-18B17CI271  CS23  (AMN) CL9_1",
+  "Column8": "P-18B17CI271  CS26  (ABS) CL7",
+  "Column9": "P-18B17CI271  CS26  (ABS) CL7",
+  "Column11": 7
+ },
+ {
+  "Column4": "P-18B17CI271  CS28  (DHA) CL9_2",
+  "Column5": "P-18B17CI271  CS28  (DHA) CL9_2",
+  "Column7": "P-18B17GE173  CS29  (SGS) DRAWR",
+  "Column8": "P-18B17GE173  CS29  (SGS) DRAWR",
+  "Column9": "P-18B17GE173  CS29  (SGS) DRAWR",
+  "Column11": 8
+ },
+ {
+  "Column3": "T-18B11CI211  CS23  (PKG) TR2",
+  "Column4": "L-18B11PH211 EC21,EM21,CE21,CC21   (SKK) TR1",
+  "Column5": "T-18B11MA211  CS210  (MDS) TR5",
+  "Column9": "L-18B11CI211  EC21,EM21,CE21,CC21,BI21,BT21 (RIV) CR19",
+  "Column11": 9
+ },
+ {
+  "Column3": "T-18B11EC211  IT22  (PRG) CR11",
+  "Column4": "P-18B17CI271  CS29  (NSA) CL8_1",
+  "Column5": "P-18B17CI271  CS29  (NSA) CL8_1",
+  "Column7": "T-18B11EC211  IT21  (PRG ) TR3",
+  "Column8": "P-18B17CI271  CS28  (DHA) CL8_1",
+  "Column9": "P-18B17CI271  CS28  (DHA) CL8_1",
+  "Column11": 10
+ },
+ {
+  "Column2": "P-18B17CI271  BI21,BT21,EC21,EM21,CE21,CC21 (RIV) LANGULAB",
+  "Column3": "P-18B17CI271  BI21,BT21,EC21,EM21,CE21,CC21 (RIV) LANGULAB",
+  "Column11": 11
+ },
+ {
+  "Column2": "P-18B17GE173  CS21  (SGS) DRAWR",
+  "Column3": "P-18B17GE173  CS21  (SGS) DRAWR",
+  "Column4": "P-18B17GE173  CS21  () DRAWR",
+  "Column7": "L-18B11PH211  CS210,CS211,CS212   (SKT) LT2",
+  "Column8": "P-18B17EC271  CS211  (HSL) ECL1",
+  "Column9": "P-18B17EC271  CS211  (HSL) ECL1",
+  "Column11": 12
+ },
+ {
+  "Column2": "P-18B17CI271 CS212  (NTS) CL5_1",
+  "Column3": "P-18B17CI271 CS212  (NTS) CL5_1",
+  "Column4": "L-18B11CI211  IT21-IT22  (EGA) CR4",
+  "Column5": "L-18B11MA211  EC21,EM21,CE21,CC21  (SST) CR6",
+  "Column11": 13
+ },
+ {
+  "Column8": "P-18B17EC271 CS212  (NFK) ECL2",
+  "Column9": "P-18B17EC271 CS212  (NFK) ECL2",
+  "Column11": 14
+ },
+ {
+  "Column11": 15
+ },
+ {
+  "Column11": 16
+ },
+ {
+  "TIME TABLE: (BTECH 2 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "SAT",
+  "Column11": 1
+ },
+ {
+  "Column4": "L-18B11MA211  CS21,CS22,CS23   (NKT) LT2",
+  "Column11": 2
+ },
+ {
+  "Column2": "P-18B17GE173 CS210 (SUV) DRAWR",
+  "Column3": "P-18B17GE173 CS210 (SUV) DRAWR",
+  "Column4": "P-18B17GE173 CS210 (SUV) DRAWR",
+  "Column11": 3
+ },
+ {
+  "Column2": "P-18B17CI271  CS29  (NSA) CL3_2",
+  "Column3": "P-18B17CI271  CS29  (NSA) CL3_2",
+  "Column11": 4
+ },
+ {
+  "Column3": "L-18B11CI211  IT21-IT22  (EGA) CR6",
+  "Column4": "P-18B17EC271  CS24  (HSL) ECL2",
+  "Column5": "P-18B17EC271  CS24  (HSL) ECL2",
+  "Column11": 5
+ },
+ {
+  "Column2": "L-18B11PH211 IT21-IT22  (SBA) CR10",
+  "Column11": 6
+ },
+ {
+  "Column2": "L-18B11EC211  EC21,EM21,CE21,CC21  (PRG) TR7",
+  "Column4": "T-18B11EC211  CS29  (EMP) TR6",
+  "Column11": 7
+ },
+ {
+  "Column2": "P-18B17EC271  CS27  (HSL) ECL1",
+  "Column3": "P-18B17EC271  CS27  (HSL) ECL1",
+  "Column11": 8
+ },
+ {
+  "Column3": "L-18B11PH211  CS21,CS22,CS23   (PBB) LT1",
+  "Column4": "T-18B11MA211  CS27  (KAS) TR4",
+  "Column11": 9
+ },
+ {
+  "Column11": 10
+ },
+ {
+  "Column2": "P-21B11HS271 CS212  (NJL) GDROOM",
+  "Column3": "P-21B11HS271 CS212  (NJL) GDROOM",
+  "Column11": 11
+ },
+ {
+  "Column11": 12
+ },
+ {
+  "Column2": "P-18B17CI271  CS24  (RBT) CL8_2",
+  "Column3": "P-18B17CI271  CS24  (RBT) CL8_2",
+  "Column11": 13
+ },
+ {
+  "Column11": 14
+ },
+ {
+  "Column11": 15
+ },
+ {
+  "Column11": 16
+ }
+],
+"BTECH 4 SEM":[
+ {
+  "TIME TABLE: (BTECH 4 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "D\/T",
+  "Column2": "09:00 AM - 09:55 AM",
+  "Column3": "10:00 AM - 10:55 AM",
+  "Column4": "11:00 AM - 11:55 AM",
+  "Column5": "12:00 PM - 12:55PM",
+  "Column6": "01:00 PM - 01:55 PM",
+  "Column7": "02:00 PM - 02:55 PM",
+  "Column8": "03:00 PM - 03:55 PM",
+  "Column9": "04:00PM - 04:55 PM",
+  "Column10": "05:00PM - 05:55 PM"
+ },
+ {
+  "TIME TABLE: (BTECH 4 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "MON",
+  "Column3": "L-18B11MA413  EC41,EM41  (PKP) TR6",
+  "Column4": "L-18B11CI411  CS410,IT41,IT42 (PTK) CR6",
+  "Column6": "L-18B11HS411  CS44-CS46, CS65-BACK (TGM) LT3",
+  "Column7": "L-18B11CI413  CS41,CS42,CS43   (NFK) CR1",
+  "Column8": "L-18B11HS411 CS410, IT41,IT42  (TGM) CR8"
+ },
+ {
+  "Column2": "P-18B17CI473  CS46  (ALK) CL6",
+  "Column3": "P-18B17CI473  CS46  (ALK) CL6",
+  "Column5": "L-18B11HS411  EC41,EM41,CE41,BT41,BI41,BACK-CE61 (ASA) LT3",
+  "Column7": "L-18B11CI412  CS44,CS45,CS46  (RKI) CR9",
+  "Column8": "P-20B17EM471 EM41  (SWT) ECL7",
+  "Column9": "P-20B17EM471 EM41  (SWT) ECL7"
+ },
+ {
+  "Column2": "P-18B17CI471  CS47  (MBI) CL5_1",
+  "Column3": "P-18B17CI471  CS47  (MBI) CL5_1",
+  "Column4": "L-18B11EC311 EC41 (SRU) TR6",
+  "Column7": "L-19B11CI411  IT41-IT42  (PKR) CR11",
+  "Column8": "L-18B11CE412  CE41  (ASR) CR14"
+ },
+ {
+  "Column2": "P-18B17CI471  CS42  (DGA) CL3_2",
+  "Column3": "P-18B17CI471  CS42  (DGA) CL3_2",
+  "Column7": "L-18B11CE411  CE41  (AKG) CR14",
+  "Column8": "P-18B17CI471  CS48  (MBI) CL5_2",
+  "Column9": "P-18B17CI471  CS48  (MBI) CL5_2"
+ },
+ {
+  "Column4": "L-20B11EM411 EM41  (SWT) TR5",
+  "Column7": "T-20B11EM411 EM41  (SWT) TR7",
+  "Column9": "L-18B11CI413  CS410,IT41,IT42  (SLD) CR2",
+  "Column11": 5
+ },
+ {
+  "Column3": "L-18B11CE414  CE41  (NJP) CR13",
+  "Column4": "L-18B11BI413  BI41  (RJK) TR3",
+  "Column6": "P-18B17CI472  CS48  (SGL) CL5_2",
+  "Column7": "P-18B17CI472  CS48  (SGL) CL5_2",
+  "Column8": "L-18B11CI414  CS41,CS42,CS43   (PKP) LT1",
+  "Column11": 6
+ },
+ {
+  "Column2": "T-18B11BT413  BT41  (RJK) TR5",
+  "Column6": "P-18B17CI472  CS49  (AMN) CL6",
+  "Column7": "P-18B17CI472  CS49  (AMN) CL6",
+  "Column8": "P-18B17CI473  CS45  (PDG) CL9_1",
+  "Column9": "P-18B17CI473  CS45  (PDG) CL9_1",
+  "Column11": 7
+ },
+ {
+  "Column2": "P-18B17CI471  CS45  (HRI) CL4",
+  "Column3": "P-18B17CI471  CS45  (HRI) CL4",
+  "Column4": "P-18B17CI473  CS43  (ALK) CL9_2",
+  "Column5": "P-18B17CI473  CS43  (ALK) CL9_2",
+  "Column6": "P-18B17CI473  CS47  (NVN) CL7",
+  "Column7": "P-18B17CI473  CS47  (NVN) CL7",
+  "Column8": "P-18B17CI474  CS49  (NFK) CL8_1",
+  "Column9": "P-18B17CI474  CS49  (NFK) CL8_1",
+  "Column11": 8
+ },
+ {
+  "Column2": "P-18B17CI473  CS44  (PDG) CL7",
+  "Column3": "P-18B17CI473  CS44  (PDG) CL7",
+  "Column6": "P-18B17CI473  CS410  (VKB) CL8",
+  "Column7": "P-18B17CI473  CS410  (VKB) CL8",
+  "Column8": "P-18B17BI473  BI41  (RJK) BPL",
+  "Column9": "P-18B17BI473  BI41  (RJK) BPL",
+  "Column11": 9
+ },
+ {
+  "Column2": "P-18B17CI473  CS48  (NVN) CL8",
+  "Column3": "P-18B17CI473  CS48  (NVN) CL8",
+  "Column4": "P-18B17CI473  CS42  (PDG) CL8",
+  "Column5": "P-18B17CI473  CS42  (PDG) CL8",
+  "Column7": "L-18B11BI414  BI41,BIM  (SML) TR3",
+  "Column8": "P-18B17CI474  CS46  (NTJ) CL9_2",
+  "Column9": "P-18B17CI474  CS46  (NTJ) CL9_2",
+  "Column11": 10
+ },
+ {
+  "Column3": "L-18B11MA411  BI41  (SST) TR3",
+  "Column7": "P-18B17EC473  EC41  (ALK) ECL5",
+  "Column8": "P-18B17EC473  EC41  (ALK) ECL5",
+  "Column11": 11
+ },
+ {
+  "Column4": "L-18B11CI413  CS44,CS45,CS46  (NFK) CR2",
+  "Column8": "P-18B17CI472  CS44 (RKI) CL1",
+  "Column9": "P-18B17CI472  CS44 (RKI) CL1",
+  "Column11": 12
+ },
+ {
+  "Column2": "P-18B17CI474  CS41  (SLD) CL3_1",
+  "Column3": "P-18B17CI474  CS41  (SLD) CL3_1",
+  "Column7": "L-18B11BT413  BT41  (RJK) TR5",
+  "Column11": 13
+ },
+ {
+  "Column2": "P-18B17CI473  IT42  (VKB) CL11",
+  "Column3": "P-18B17CI473  IT42  (VKB) CL11",
+  "Column4": "L-18B11CI411  CS47,CS48,CS49  (MBI) CR9",
+  "Column11": 14
+ },
+ {
+  "Column3": "L-18B11BT412  BT41  (JTV) TR5",
+  "Column8": "L-18B11BT414  BT41  (AKN) TR6",
+  "Column11": 15
+ },
+ {
+  "Column2": "L-18B11EC411  EC41  (SHR) TR7",
+  "Column11": 16
+ },
+ {
+  "TIME TABLE: (BTECH 4 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "TUE",
+  "Column2": "L-18B11CE415  CE41  (CPG) CR14",
+  "Column3": "L-18B11HS411  EC41,EM41,CE41,BT41,BI41,BACK-CE61 (ASA) LT3",
+  "Column4": "L-18B11HS411  CS41,CS42,CS43   (ASA) LT3",
+  "Column6": "L-18B11CI411  CS44,CS45,CS46  (HRI) CR1",
+  "Column8": "L-18B11HS411  CS410,IT41-IT42  (TGM) CR8",
+  "Column9": "L-18B11HS411  CS47,CS48,CS49  (TGM) LT1",
+  "Column11": 1
+ },
+ {
+  "Column6": "L-18B11CI411  CS41,CS42,CS43   (PKG) CR2",
+  "Column7": "L-18B11CI414  CS47,CS48,CS49  (BKP) CR10",
+  "Column8": "L-18B11CI412  CS47,CS48,CS49  (SGL) CR10",
+  "Column9": "L-18B11GE411 IT41,IT42,BT41,BI41 (PNS) CR6",
+  "Column11": 2
+ },
+ {
+  "Column2": "L-18B11CI415  BI41  (NFK) CR4",
+  "Column6": "L-18B11CI412  CS410,EM41,CSM  (AMN) CR4",
+  "Column7": "L-18B11CI412  CS41,CS42,CS43   (DHA) CR11",
+  "Column11": 3
+ },
+ {
+  "Column2": "P-18B17CI473  CS49  (VKB) CL10",
+  "Column3": "P-18B17CI473  CS49  (VKB) CL10",
+  "Column4": "L-18B11CI414 CS410,IT41,IT42  (RKB) CR8",
+  "Column6": "L-18B11CI413  CS47,CS48,CS49  (SLD) CR5",
+  "Column8": "L-20B11EM411 EM41  (SWT) TR5",
+  "Column9": "L-18B11GE411  CS410,EC41,EM41,ECM,CE41 (RRA) CR12",
+  "Column11": 4
+ },
+ {
+  "Column2": "P-18B17CI474  CS410  (SWT) CL9_1",
+  "Column3": "P-18B17CI474  CS410  (SWT) CL9_1",
+  "Column4": "L-18B11CI414  CS44,CS45,CS46  (BKP) CR1",
+  "Column6": "P-18B17CI473  IT41  (VKB) CL9_1",
+  "Column7": "P-18B17CI473  IT41  (VKB) CL9_1",
+  "Column11": 5
+ },
+ {
+  "Column2": "P-18B17CI471  CS41  (DGA) CL3_1",
+  "Column3": "P-18B17CI471  CS41  (DGA) CL3_1",
+  "Column4": "L-18B11CE412  CE41  (ASR) CR14",
+  "Column6": "P-19B17CI471  IT42  (PKR) CL1",
+  "Column7": "P-19B17CI471  IT42  (PKR) CL1",
+  "Column8": "P-18B17CI471  CS46  (HRI) CL9_1",
+  "Column9": "P-18B17CI471  CS46  (HRI) CL9_1",
+  "Column11": 6
+ },
+ {
+  "Column2": "P-18B17CI471  CS44  (HRI) CL3_2",
+  "Column3": "P-18B17CI471  CS44  (HRI) CL3_2",
+  "Column4": "L-18B11BI412  BI41  (JAS) TR3",
+  "Column8": "P-18B17CI474  CS45  (NTJ) CL9_2",
+  "Column9": "P-18B17CI474  CS45  (NTJ) CL9_2",
+  "Column11": 7
+ },
+ {
+  "Column2": "L-20B11EM412 EM41  (RKU) CR6",
+  "Column4": "L-18B11BT411  BT41  (HSD) TR6",
+  "Column7": "P-18B17BT472  BT41  (JTV) UG2",
+  "Column8": "P-18B17BT472  BT41  (JTV) UG2",
+  "Column11": 8
+ },
+ {
+  "Column2": "P-18B17CI472  CS47  (SGL) CL5_1",
+  "Column3": "P-18B17CI472  CS47  (SGL) CL5_1",
+  "Column7": "P-18B11CE413  CE41  (TNM) CADLAB",
+  "Column8": "P-18B11CE413  CE41  (TNM) CADLAB",
+  "Column11": 9
+ },
+ {
+  "Column2": "P-18B17CI472  CS42  (DHA) CL5_2",
+  "Column3": "P-18B17CI472  CS42  (DHA) CL5_2",
+  "Column4": "L-18B11GE411  CS47,CS48,CS49  (PNS) CR11",
+  "Column5": "L-18B11BI413  BI41  (RJK) CR4",
+  "Column7": "P-18B11MA412  BI41  (SST) BPL",
+  "Column8": "P-18B11MA412  BI41  (SST) BPL",
+  "Column11": 10
+ },
+ {
+  "Column2": "P-19B17CI471  IT41  (PKR) CL4",
+  "Column3": "P-19B17CI471  IT41  (PKR) CL4",
+  "Column5": "L-18B11BT411  BT41  (UDB) CR5",
+  "Column7": "L-18B11CI413  CS44,CS45,CS46  (NFK) CR9",
+  "Column8": "P-18B17CI472  CS41  (DHA) CL3_1",
+  "Column9": "P-18B17CI472  CS41  (DHA) CL3_1",
+  "Column11": 11
+ },
+ {
+  "Column2": "P-18B17CI472  CS45  (RKI) CL6",
+  "Column3": "P-18B17CI472  CS45  (RKI) CL6",
+  "Column11": 12
+ },
+ {
+  "Column2": "P-18B17CI473  CS48  (NVN) CL8_1",
+  "Column3": "P-18B17CI473  CS48  (NVN) CL8_1",
+  "Column11": 13
+ },
+ {
+  "Column8": "P-18B17CI472  CS44  (RKI) CL5_1",
+  "Column9": "P-18B17CI472  CS44  (RKI) CL5_1",
+  "Column11": 14
+ },
+ {
+  "Column11": 15
+ },
+ {
+  "Column11": 16
+ },
+ {
+  "TIME TABLE: (BTECH 4 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "WED",
+  "Column2": "L-18B11CE415  CE41  (CPG) CR14",
+  "Column5": "L-18B11HS411  EC41,EM41,CE41,BT41,BI41,BACK-CE61 (ASA) LT3",
+  "Column6": "L-18B11HS411 CS44,CS45,CS46, CS65-BACK (TGM) LT3",
+  "Column8": "L-18B11CI411  CS44,CS45,CS46  (HRI) CR1",
+  "Column11": 1
+ },
+ {
+  "Column3": "L-18B11CE414  CE41  (NJP) CR14",
+  "Column4": "L-18B11HS411  CS41,CS42,CS43   (ASA) LT3",
+  "Column7": "L-18B11CI412  CS41,CS42,CS43   (DHA) CR1",
+  "Column9": "L-18B11CI414  CS44,CS45,CS46  (BKP) CR9",
+  "Column11": 2
+ },
+ {
+  "Column3": "L-18B11CI415  BI41  (NFK) CR11",
+  "Column4": "L-18B11GE411  CS44,CS45,CS46  (PNS) CR1",
+  "Column7": "L-19B11CI411  IT41-IT42  (PKR) CR11",
+  "Column8": "L-18B11CI411  CS41,CS42,CS43   (PKG) CR10",
+  "Column11": 3
+ },
+ {
+  "Column2": "P-18B17CI471  CS42  (DGA) CL3_2",
+  "Column3": "P-18B17CI471  CS42  (DGA) CL3_2",
+  "Column4": "L-18B11CI411  CS47,CS48,CS49  (MBI) CR6",
+  "Column6": "L-18B11CI413  CS41,CS42,CS43   (NFK) CR2",
+  "Column7": "L-18B11CI412  CS44,CS45,CS46  (RKI) CR10",
+  "Column11": 4
+ },
+ {
+  "Column2": "P-18B17CI471  CS49  (MBI) CL4",
+  "Column3": "P-18B17CI471  CS49  (MBI) CL4",
+  "Column11": 5
+ },
+ {
+  "Column2": "P-18B17CI472  CS41  (DHA) CL5_1",
+  "Column3": "P-18B17CI472  CS41  (DHA) CL5_1",
+  "Column4": "L-18B11BI412  BI41  (JAS) TR7",
+  "Column6": "L-18B11CI414  CS47,CS48,CS49  (BKP) LT2",
+  "Column7": "L-18B11GE411  CS47,CS48,CS49  (PNS) LT2",
+  "Column8": "L-18B11CI412  CS47,CS48,CS49  (SGL) LT2",
+  "Column11": 6
+ },
+ {
+  "Column2": "P-18B17CI471  CS45  (HRI) CL5_2",
+  "Column3": "P-18B17CI471  CS45  (HRI) CL5_2",
+  "Column7": "P-18B17BT471  BT41  (HSD,UDB) BIOCHEMLAB",
+  "Column8": "P-18B17BT471  BT41  (HSD,UDB) BIOCHEMLAB",
+  "Column9": "L-18B11HS411  CS47,CS48,CS49  (TGM) LT1",
+  "Column11": 7
+ },
+ {
+  "Column2": "P-18B17CI472  CS46  (AMN) CL6",
+  "Column3": "P-18B17CI472  CS46  (AMN) CL6",
+  "Column4": "L-18B11BT412  BT41  (JTV) TR5",
+  "Column7": "P-18B17CE471  CE41  (SUB) GEOLAB",
+  "Column8": "P-18B17CE471  CE41  (SUB) GEOLAB",
+  "Column11": 8
+ },
+ {
+  "Column2": "P-18B17CI473  CS44  (PDG) CL7",
+  "Column3": "P-18B17CI473  CS44  (PDG) CL7",
+  "Column8": "P-18B17CI471  IT42  (PTK) CL4",
+  "Column9": "P-18B17CI471  IT42  (PTK) CL4",
+  "Column11": 9
+ },
+ {
+  "Column2": "L-20B11EM411 EM41  (SWT) TR4",
+  "Column11": 10
+ },
+ {
+  "Column2": "L-18B11CI413  CS410,IT41,IT42  (SLD) CR8",
+  "Column3": "L-18B11CI411  CS410,IT41,IT42 (PTK) CR8",
+  "Column4": "L-18B11CI414  CS410.IT41,IT42  (RKB) CR5",
+  "Column6": "P-18B17CI473  CS410  (VKB) CL1",
+  "Column7": "P-18B17CI473  CS410  (VKB) CL1",
+  "Column11": 11
+ },
+ {
+  "Column2": "P-18B17CI471  CS43  (SGL) CL9_1",
+  "Column3": "P-18B17CI471  CS43  (SGL) CL9_1",
+  "Column11": 12
+ },
+ {
+  "Column2": "L-18B11MA411  BI41  (SST) TR3",
+  "Column3": "P-20B17EM472 EM41  (VKB) CL8",
+  "Column4": "P-20B17EM472 EM41  (VKB) CL8",
+  "Column7": "P-18B17BI472  BI41  (AKN) GENOMELAB",
+  "Column8": "P-18B17BI472  BI41  (AKN) GENOMELAB",
+  "Column11": 13
+ },
+ {
+  "Column3": "L-18B11BT413  BT41  (RJK) TR4",
+  "Column11": 14
+ },
+ {
+  "Column2": "L-18B11EC411  EC41  (SHR) TR7",
+  "Column3": "P-18B17EC471  EC41  (SHR) ECL1",
+  "Column4": "P-18B17EC471  EC41  (SHR) ECL1",
+  "Column8": "P-18B17CI472  CS410,CSM,EM41 (AMN) CL1",
+  "Column9": "P-18B17CI472  CS410,CSM,EM41 (AMN) CL1",
+  "Column11": 15
+ },
+ {
+  "Column2": "P-18B17CI474  CS47  (NVN) CL9_2",
+  "Column3": "P-18B17CI474  CS47  (NVN) CL9_2",
+  "Column11": 16
+ },
+ {
+  "TIME TABLE: (BTECH 4 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "THU",
+  "Column2": "L-18B11BI414  BI41,BIM  (SML) CR7",
+  "Column3": "L-18B11CE415  CE41  (CPG) CR14",
+  "Column6": "L-18B11CI411  CS44,CS45,CS46  (HRI) CR1",
+  "Column7": "L-18B11CI413  CS44,CS45,CS46  (NFK) CR1",
+  "Column9": "L-18B11HS411  CS47,CS48,CS49  (TGM) LT1",
+  "Column11": 1
+ },
+ {
+  "Column4": "L-18B11CI413  CS47,CS48,CS49  (SLD) LT3",
+  "Column6": "L-18B11CI411  CS41,CS42,CS43   (PKG) CR2",
+  "Column8": "L-18B11CI414  CS47,CS48,CS49  (BKP) LT2",
+  "Column9": "L-18B11GE411 IT41,IT42,BT41,BI41 (PNS) CR6",
+  "Column11": 2
+ },
+ {
+  "Column2": "P-18B17CI474  IT41  (SWT) CL9_2",
+  "Column3": "P-18B17CI474  IT41  (SWT) CL9_2",
+  "Column4": "L-18B11HS411  CS410,IT41,IT42  (TGM) CR8",
+  "Column6": "L-18B11CI412  CS410,EM41,CSM  (AMN) CR4",
+  "Column7": "L-18B11CI412  CS41,CS42,CS43   (DHA) CR9",
+  "Column8": "L-18B11CI414  CS410,IT41-IT42  (RKB) CR11",
+  "Column9": "L-18B11GE411  CS410,EC41,EM41,ECM,CE41 (RRA) CR12",
+  "Column11": 3
+ },
+ {
+  "Column2": "P-18B17CI471  CS41  (DGA) CL7",
+  "Column3": "P-18B17CI471  CS41  (DGA) CL7",
+  "Column4": "L-18B11GE411  CS44,CS45,CS46  (PNS) CR9",
+  "Column7": "L-18B11CI412  CS47,CS48,CS49  (SGL) CR10",
+  "Column8": "T-20B11EM412 EM41  (RKU) CR6",
+  "Column11": 4
+ },
+ {
+  "Column2": "P-18B17CI471  CS44  (HRI) CL3_2",
+  "Column3": "P-18B17CI471  CS44  (HRI) CL3_2",
+  "Column4": "L-18B11MA413  EC41,EM41  (PKP) TR6",
+  "Column11": 5
+ },
+ {
+  "Column2": "P-18B17CI471  CS47  (MBI) CL4",
+  "Column3": "P-18B17CI471  CS47  (MBI) CL4",
+  "Column4": "L-18B11CE412  CE41  (ASR) CR14",
+  "Column6": "P-18B17CI473  IT41  (VKB) CL9_1",
+  "Column7": "P-18B17CI473  IT41  (VKB) CL9_1",
+  "Column8": "P-18B17CI472  CS46  (AMN) CL8_1",
+  "Column9": "P-18B17CI472  CS46  (AMN) CL8_1",
+  "Column11": 6
+ },
+ {
+  "Column2": "P-18B17CI472  CS43  (AKJ) CL5_1",
+  "Column3": "P-18B17CI472  CS43  (AKJ) CL5_1",
+  "Column4": "L-18B11BI412  BI41  (JAS) CR7",
+  "Column8": "L-18B11MA411  BI41  (SST) TR2",
+  "Column11": 7
+ },
+ {
+  "Column2": "P-18B17CI472  CS48  (SGL) CL5_2",
+  "Column3": "P-18B17CI472  CS48  (SGL) CL5_2",
+  "Column4": "L-18B11BT411  BT41  (HSD) TR7",
+  "Column11": 8
+ },
+ {
+  "Column2": "P-18B17EC371 EC41 (EMP) CL8_1",
+  "Column3": "P-18B17EC371 EC41 (EMP) CL8_1",
+  "Column5": "L-18B11EC413  EC41,ECM [CS42,CS45,CS47,CS48] (ALK) TR1",
+  "Column6": "L-18B11EC413  EC41,ECM [CS42,CS45,CS47,CS48] (ALK) TR1",
+  "Column7": "P-18B17BT473  BT41  (TTS) BIL",
+  "Column8": "P-18B17BT473  BT41  (TTS) BIL",
+  "Column11": 9
+ },
+ {
+  "Column2": "P-18B17CI473  CS46  (ALK) CL9_1",
+  "Column3": "P-18B17CI473  CS46  (ALK) CL9_1",
+  "Column8": "P-18B17CI474  CS43  (SLD) CL5_1",
+  "Column9": "P-18B17CI474  CS43  (SLD) CL5_1",
+  "Column11": 10
+ },
+ {
+  "Column2": "P-18B17CI472  CS49  (AMN) CL3_1",
+  "Column3": "P-18B17CI472  CS49  (AMN) CL3_1",
+  "Column5": "L-18B11BT414  BT41  (AKN) CR7",
+  "Column6": "P-19B17CI471  IT42  (PKR) CL1",
+  "Column7": "P-19B17CI471  IT42  (PKR) CL1",
+  "Column11": 11
+ },
+ {
+  "Column2": "P-18B17CI471  CS410  (PTK) CL8_2",
+  "Column3": "P-18B17CI471  CS410  (PTK) CL8_2",
+  "Column5": "L-18B11CE411  CE41  (AKG) TR9",
+  "Column8": "P-18B17CI472  CS42  (DHA) CL5_2",
+  "Column9": "P-18B17CI472  CS42  (DHA) CL5_2",
+  "Column11": 12
+ },
+ {
+  "Column4": "L-18B11CI413  CS41,CS42,CS43   (NFK) CR10",
+  "Column7": "L-18B11BI414  BI41,BIM  (SML) TR5",
+  "Column8": "P-18B17CI472  CS45  (RKI) CL8",
+  "Column9": "P-18B17CI472  CS45  (RKI) CL8",
+  "Column11": 13
+ },
+ {
+  "Column3": "T-18B11CI415  BI41  (NFK) TR3",
+  "Column11": 14
+ },
+ {
+  "Column2": "L-18B11BT412  BT41  (JTV) CR6",
+  "Column3": "L-18B11BT413  BT41  (RJK) TR4",
+  "Column8": "P-18B17CI474  CS44  (NFK) CL9_2",
+  "Column9": "P-18B17CI474  CS44  (NFK) CL9_2",
+  "Column11": 15
+ },
+ {
+  "Column3": "L-20B11EM412 EM41  (RKU) CR6",
+  "Column11": 16
+ },
+ {
+  "TIME TABLE: (BTECH 4 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "FRI",
+  "Column2": "L-18B11CE414  CE41  (NJP) CR13",
+  "Column3": "L-18B11CE411  CE41  (AKG) CR14",
+  "Column4": "L-18B11CI411  CS410,IT41,IT42 (PTK) CR6",
+  "Column6": "L-18B11HS411 CS44,CS45,CS46, CS65-BACK (TGM) LT3",
+  "Column11": 1
+ },
+ {
+  "Column4": "L-18B11HS411  CS41,CS42,CS43   (ASA) LT3",
+  "Column7": "L-18B11CI412  CS44,CS45,CS46  (RKI) CR10",
+  "Column8": "P-18B17CI472  CS410,CSM,EM41 (AMN) CL1",
+  "Column9": "P-18B17CI472  CS410,CSM,EM41 (AMN) CL1",
+  "Column11": 2
+ },
+ {
+  "Column2": "P-18B17CI471  IT41  (PTK) CL3_1",
+  "Column3": "P-18B17CI471  IT41  (PTK) CL3_1",
+  "Column4": "L-18B11CI411  CS47,CS48,CS49  (MBI) CR7",
+  "Column7": "L-19B11CI411  IT41-IT42  (PKR) CR11",
+  "Column11": 3
+ },
+ {
+  "Column2": "P-18B17CI473  IT42  (VKB) CL7",
+  "Column3": "P-18B17CI473  IT42  (VKB) CL7",
+  "Column4": "L-18B11CI414  CS44,CS45,CS46  (BKP) CR9",
+  "Column8": "P-18B17CI473 CS45 (PDG) CL9_2",
+  "Column9": "P-18B17CI473 CS45 (PDG) CL9_2",
+  "Column11": 4
+ },
+ {
+  "Column2": "P-18B17CI471  CS46  (HRI) CL3_2",
+  "Column3": "P-18B17CI471  CS46  (HRI) Cl3_2",
+  "Column6": "P-18B17CI471  CS48  (MBI) CL3_2",
+  "Column7": "P-18B17CI471  CS48  (MBI) CL3_2",
+  "Column11": 5
+ },
+ {
+  "Column3": "P-18B11CI474 BI41 (NFK) CL4",
+  "Column4": "P-18B11CI474 BI41 (NFK) CL4",
+  "Column6": "P-18B17CI473  CS49  (VKB) CL5_2",
+  "Column7": "P-18B17CI473  CS49  (VKB) CL5_2",
+  "Column8": "P-18B17CI474  IT42  (SWT) CL11",
+  "Column9": "P-18B17CI474  IT42  (SWT) CL11",
+  "Column11": 6
+ },
+ {
+  "Column2": "P-18B17CI471  CS49  (MBI) CL5_2",
+  "Column3": "P-18B17CI471  CS49  (MBI) CL5_2",
+  "Column11": 7
+ },
+ {
+  "Column2": "P-18B17CI472  CS47  (SGL) CL6",
+  "Column3": "P-18B17CI472  CS47  (SGL) CL6",
+  "Column11": 8
+ },
+ {
+  "Column2": "L-18B11BI413  BI41  (RJK) TR4",
+  "Column4": "P-18B17CE472  CE41  (ASR) SURVLAB",
+  "Column5": "P-18B17CE472  CE41  (ASR) SURVLAB",
+  "Column9": "L-18B11EC311 EC41 (SRU) TR6",
+  "Column11": 9
+ },
+ {
+  "Column2": "P-18B17CI473 CS42 (PDG) CL8",
+  "Column3": "P-18B17CI473 CS42 (PDG) CL8",
+  "Column8": "P-18B17BT474  BT41  (SDS) UG1",
+  "Column9": "P-18B17BT474  BT41  (SDS) UG1",
+  "Column11": 10
+ },
+ {
+  "Column2": "P-18B17CI473  CS43  (ALK) CL9_1",
+  "Column3": "P-18B17CI473  CS43  (ALK) CL9_1",
+  "Column6": "P-18B17CI471  CS410  (PTK) CL9_1",
+  "Column7": "P-18B17CI471  CS410  (PTK) CL9_1",
+  "Column11": 11
+ },
+ {
+  "Column2": "P-18B17CI474  CS48  (NTJ) CL9_2",
+  "Column3": "P-18B17CI474  CS48  (NTJ) CL9_2",
+  "Column7": "L-18B11BT414  BT41  (AKN) TR6",
+  "Column8": "P-18B17CI473  CS47  (NVN) CL8_2",
+  "Column9": "P-18B17CI473  CS47  (NVN) CL8_2",
+  "Column11": 12
+ },
+ {
+  "Column6": "P-18B17CI472  CS43  (AKJ) CL9_2",
+  "Column7": "P-18B17CI472  CS43  (AKJ) CL9_2",
+  "Column8": "P-18B17CI471  IT41  (PTK) CL3_2",
+  "Column9": "P-18B17CI471  IT41  (PTK) CL3_2",
+  "Column11": 13
+ },
+ {
+  "Column3": "L-18B11CI412  CS410,EM41,CSM  (AMN) CR7",
+  "Column4": "P-18B17EC474  EC41,EM41   (NVN) CL1",
+  "Column5": "P-18B17EC474  EC41,EM41   (NVN) CL1",
+  "Column8": "L-18B11GE411  CS41,CS42,CS43   (PNS) CR4",
+  "Column9": "L-18B11CI414  CS41,CS42,CS43   (PKP) LT1",
+  "Column11": 14
+ },
+ {
+  "Column2": "L-18B11BT411  BT41  (UDB) CR7",
+  "Column3": "T-18B11BT414  BT41  (AKN) TR5",
+  "Column6": "P-18B17CI473  CS41  (ALK) CL7",
+  "Column7": "P-18B17CI473  CS41  (ALK) CL7",
+  "Column11": 15
+ },
+ {
+  "Column2": "L-18B11EC411  EC41  (SHR) TR7",
+  "Column11": 16
+ },
+ {
+  "TIME TABLE: (BTECH 4 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "SAT",
+  "Column4": "L-18B11CI413  CS47,CS48,CS49  (SLD) CR10",
+  "Column11": 1
+ },
+ {
+  "Column4": "L-18B11GE411  CS41,CS42,CS43   (PNS) CR1",
+  "Column5": "L-18B11CI414  CS41,CS42,CS43   (PKP) LT1",
+  "Column11": 2
+ },
+ {
+  "Column11": 3
+ },
+ {
+  "Column2": "P-18B17CI471  IT42  (PTK) CL9_1",
+  "Column3": "P-18B17CI471  IT42  (PTK) Cl9_1",
+  "Column11": 4
+ },
+ {
+  "Column5": "L-18B11EC413  EC41,ECM [CS42,CS45,CS47,CS48] (ALK) TR5",
+  "Column11": 5
+ },
+ {
+  "Column2": "P-18B17CI471  CS43  (SGL) CL4",
+  "Column3": "P-18B17CI471  CS43  (SGL) CL4",
+  "Column11": 6
+ },
+ {
+  "Column11": 7
+ },
+ {
+  "Column2": "P-18B17CI473  CS41  (ALK) CL7",
+  "Column3": "P-18B17CI473  CS41  (ALK) CL7",
+  "Column11": 8
+ },
+ {
+  "Column5": "L-18B11CI415  BI41  (NFK) CR5",
+  "Column11": 9
+ },
+ {
+  "Column2": "P-18B17CI474  CS42  (SLD) CL10",
+  "Column3": "P-18B17CI474  CS42  (SLD) CL10",
+  "Column11": 10
+ },
+ {
+  "Column2": "P-19B17CI471  IT41  (PKR) CL6",
+  "Column3": "P-19B17CI471  IT41  (PKR) CL6",
+  "Column4": "L-18B11MA413  EC41,EM41  (PKP) CR6",
+  "Column5": "L-18B11CI413  CS410,IT41,IT42  (SLD) CR7",
+  "Column11": 11
+ },
+ {
+  "Column2": "P-18B17BI474  BI41,BIM  (SML) BIL",
+  "Column3": "P-18B17BI474  BI41,BIM  (SML) BIL",
+  "Column11": 12
+ },
+ {
+  "Column3": "L-18B11EC311 EC41 (SRU) TR6",
+  "Column11": 13
+ },
+ {
+  "Column3": "L-20B11EM412 EM41  (RKU) CR7",
+  "Column11": 14
+ },
+ {
+  "Column11": 15
+ },
+ {
+  "Column11": 16
+ }
+],
+"BTECH 6 SEM":[
+ {
+  "TIME TABLE: (BTECH 6 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "D\/T",
+  "Column2": "09:00 AM - 09:55 AM",
+  "Column3": "10:00 AM - 10:55 AM",
+  "Column4": "11:00 AM - 11:55 AM",
+  "Column5": "12:00 PM - 12:55PM",
+  "Column6": "01:00 PM - 01:55 PM",
+  "Column7": "02:00 PM - 02:55 PM",
+  "Column8": "03:00 PM - 03:55 PM",
+  "Column9": "04:00PM - 04:55 PM",
+  "Column10": "05:00PM - 05:55 PM"
+ },
+ {
+  "TIME TABLE: (BTECH 6 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "MON",
+  "Column2": "L-18B11CI611 CS64,CS65,CS66 (PDN) CR10",
+  "Column3": "L-18B1WHS641 HSALL  (NJL) LT1",
+  "Column6": "L-18B11EC611  EC61+ECM[CS61,CS66,CS68,CS611,IT61,IT62] (MSD) CR10",
+  "Column7": "L-19B1WCI637  CS-IT[PAI] (AVA) CR7",
+  "Column11": 1
+ },
+ {
+  "Column2": "L-18B11CI611 CS61,CS62,CS63 (JAG) LT1",
+  "Column3": "L-18B1WHS632 HSALL  (ASA) LT3",
+  "Column4": "P-18B11CI671 CS65 (PDN) CL3_1",
+  "Column5": "P-18B11CI671 CS65 (PDN) Cl3_1",
+  "Column7": "T-18B11EC612  EC61 (HSL) TR1",
+  "Column8": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]CS62 (SSA) CL3_1",
+  "Column9": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]CS62 (SSA) CL3_1",
+  "Column11": 2
+ },
+ {
+  "Column2": "L-18B11CI612 CS67,CS68,CS69 (PMI) LT2",
+  "Column3": "L-18B1WHS631 HSALL  (TGM) CR5",
+  "Column7": "L-19B1WCI632  CS-IT[PIS] (PDN) CR5",
+  "Column9": "L-18B1WEC636 ECALL[BT61] (VKB) TR6",
+  "Column11": 3
+ },
+ {
+  "Column2": "L-18B11CI612 CS610,CS611  (HJL) CR4",
+  "Column3": "L-18B1WHS640 HSALL  (TNS) CR10",
+  "Column4": "P-18B11CI671 CS69 (ARV) CL7",
+  "Column5": "P-18B11CI671 CS69 (ARV) CL7",
+  "Column7": "L-19B1WCI635  CS-IT[PCC] (RJM) CR6",
+  "Column8": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]CS69 (PMI) CL8_2",
+  "Column9": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]CS69 (PMI) CL8_2",
+  "Column10": "L-18B11CI613   ITM [IT61,IT62] (YGL) CR11",
+  "Column11": 4
+ },
+ {
+  "Column2": "L-18B1WBI631 BI61 (TTS) CR6",
+  "Column3": "L-20B1WHS631 HSALL  (ANU) CR2",
+  "Column6": "L-18B11CI612   CSM[BI61,BT61] (PTK) TR3",
+  "Column7": "L-19B1WCI635  CS-IT[PCC] (JAG) CR8",
+  "Column11": 5
+ },
+ {
+  "Column2": "L-20B1WBT631 BT61 (UDB) TR6",
+  "Column4": "L-18B11CE611  CE61  (TNM) CR14",
+  "Column7": "L-18B1WCI635  CS-IT[PML\/PBD]CS62,CS63,CS64,CS65,CS66,CS67,CS68,CS69,IT61,IT62,BI61 (EGA) CR10",
+  "Column8": "L-18B1WBT633  BT61  (ABH) CR12",
+  "Column11": 6
+ },
+ {
+  "Column4": "L-18B11BT612  BT61  (HSD) CR5",
+  "Column5": "L-18B11CI613 IT61,IT62 (PKR) CR12",
+  "Column7": "L-18B11BT611  BT61  (SBS) CR4",
+  "Column8": "P-19B1WCI675  CS-IT[PCC]CS65,CS610,CS611 (KLK) CL11",
+  "Column9": "P-19B1WCI675  CS-IT[PCC]CS65,CS610,CS611 (KLK) CL11",
+  "Column11": 7
+ },
+ {
+  "Column2": "L-18B11CI611 IT61,IT62 (ARV) CR8",
+  "Column4": "P-18B11CI671 CS64 (JAG) CL3_2",
+  "Column5": "P-18B11CI671 CS64 (JAG) Cl3_2",
+  "Column7": "L-18B11WCE631  CE61  (CPG) TR9",
+  "Column11": 8
+ },
+ {
+  "Column4": "P-18B11CI672 CS66  (RJM) Cl5_1",
+  "Column5": "P-18B11CI672 CS66  (RJM) CL5_1",
+  "Column8": "P-19B1WCI671  CS-IT[PIS]CS63,CS64,CS65,CS66  (NSA) CL10",
+  "Column9": "P-19B1WCI671  CS-IT[PIS]CS63,CS64,CS65,CS66  (NSA) CL10",
+  "Column11": 9
+ },
+ {
+  "Column4": "L-18B11CI612 CS61,CS62,CS63 (YGL) CR10",
+  "Column7": "L-20B1WCI732  CS-IT[PSC\/PDS] (RBT) LT3",
+  "Column8": "P-19B1WCI677  CS-IT[PAI]CS64,CS68,CS610,CS611 (AVA) CL6",
+  "Column9": "P-19B1WCI677  CS-IT[PAI]CS64,CS68,CS610,CS611 (AVA) CL6",
+  "Column11": 10
+ },
+ {
+  "Column4": "P-18B11CI672 CS68  (PMI) Cl9_1",
+  "Column5": "P-18B11CI672 CS68  (PMI) Cl9_1",
+  "Column8": "P-18B11CI671 IT61 (ARV) CL7",
+  "Column9": "P-18B11CI671 IT61 (ARV) CL7",
+  "Column10": "L-20B1WEC532 EC61-BACK (SLD) CABIN2",
+  "Column11": 11
+ },
+ {
+  "Column11": 12
+ },
+ {
+  "Column2": "L-18B1WBT632  BT61,BI61-NO (GPL) CR11",
+  "Column4": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]CS611 (SGL) CL5_2",
+  "Column5": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]CS611 (SGL) CL5_2",
+  "Column11": 13
+ },
+ {
+  "Column4": "P-18B11CI671 CS67 (VKS) CL4",
+  "Column5": "P-18B11CI671 CS67 (VKS) CL4",
+  "Column11": 14
+ },
+ {
+  "Column5": "L-18B11BT513 BT61-BACK (ABH) CABIN",
+  "Column11": 15
+ },
+ {
+  "Column8": "L-18B1WCE639  CE61,BACK-CE61 (SUB) CR15",
+  "Column9": "L-18B11CE612  CE61  (KKR) CR15",
+  "Column11": 16
+ },
+ {
+  "TIME TABLE: (BTECH 6 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "TUE",
+  "Column5": "L-18B11EC612  EC61  (HSL) TR1",
+  "Column9": "L-18B11CI612   CSM[BI61,BT61] (PTK) TR3",
+  "Column11": 1
+ },
+ {
+  "Column2": "L-18B11BI612  BI61,BIM  (RJK) CR8",
+  "Column3": "L-18B11CI611 CS610,CS611 (AKJ) CR8",
+  "Column4": "L-13B1WCI731  EC61  (NVN) CR4",
+  "Column7": "L-18B11CI611 CS67,CS68,CS69 (VKS) LT2",
+  "Column8": "P-18B17CI673 IT61  (KLK) CL11",
+  "Column9": "P-18B17CI673   IT61  (KLK) CL11",
+  "Column11": 2
+ },
+ {
+  "Column2": "P-19B1WCI774  EC61  (EMP) CL11",
+  "Column3": "P-19B1WCI774  EC61  (EMP) CL11",
+  "Column4": "L-18B11CI612 CS61,CS62,CS63 (YGL) CR10",
+  "Column8": "P-18B11CI672 CS69 (PMI) CL4",
+  "Column9": "P-18B11CI672 CS69 (PMI) CL4",
+  "Column11": 3
+ },
+ {
+  "Column4": "L-18B11CE611  CE61  (TNM) CR17",
+  "Column7": "L-18B11CI612 CS610,CS611  (HJL) CR6",
+  "Column8": "P-18B11CI671 CS611 (AKJ) CL6",
+  "Column9": "P-18B11CI671 CS611 (AKJ) CL6",
+  "Column11": 4
+ },
+ {
+  "Column3": "T-18B11BT611  BT61  (SBS) CR12",
+  "Column11": 5
+ },
+ {
+  "Column2": "P-18B11CI672 CS65 (HJL) CL8_2",
+  "Column3": "P-18B11CI672 CS65 (HJL) CL8_2",
+  "Column4": "P-18B11CI671 CS64 (JAG) CL3_1",
+  "Column5": "P-18B11CI671 CS64 (JAG) Cl3_1",
+  "Column8": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]CS63,CS67 (ABS) CL1",
+  "Column9": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]CS63,CS67 (ABS) CL1",
+  "Column11": 6
+ },
+ {
+  "Column4": "P-18B11CI671 CS65 (PDN) Cl3_2",
+  "Column5": "P-18B11CI671 CS65 (PDN) CL3_2",
+  "Column8": "P-18B17CI673   IT62  (NTS) CL8_1",
+  "Column9": "P-18B17CI673   IT62  (NTS) CL8_1",
+  "Column11": 7
+ },
+ {
+  "Column2": "P-18B11CI672 CS69 (PMI) CL7",
+  "Column3": "P-18B11CI672 CS69 (PMI) CL7",
+  "Column4": "P-18B11CI672 CS66  (RJM) CL4",
+  "Column5": "P-18B11CI672 CS66  (RJM) CL4",
+  "Column8": "P-18B11CI672 CS610  (HJL) CL7",
+  "Column9": "P-18B11CI672 CS610  (HJL) CL7",
+  "Column11": 8
+ },
+ {
+  "Column4": "P-18B11CI671 IT62 (ARV) CL6",
+  "Column5": "P-18B11CI671 IT62 (ARV) CL6",
+  "Column7": "L-18B1WCE634  CE61,BACK-CE61 (ADP) CR14",
+  "Column9": "L-18B11CE612 CE61 (KKR) CR13",
+  "Column11": 9
+ },
+ {
+  "Column2": "P-18B11CI671 CS63  (PDN) CL1",
+  "Column3": "P-18B11CI671 CS63  (PDN) CL1",
+  "Column4": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI] IT61 (ABS) CL7",
+  "Column5": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI] IT61 (ABS) CL7",
+  "Column7": "P-18B17BI672  BT61,BI61,BIM  (RJK) BIL",
+  "Column8": "P-18B17BI672  BT61,BI61,BIM  (RJK) BIL",
+  "Column9": "L-18B11CI612 CS64,CS65,CS66 (RJM) CR10",
+  "Column11": 10
+ },
+ {
+  "Column4": "P-18B11CI672 CS611 (HJL) CL5_1",
+  "Column5": "P-18B11CI672 CS611  (HJL) CL5_1",
+  "Column11": 11
+ },
+ {
+  "Column4": "P-18B17BT671  BT61  (SBS) UG2",
+  "Column5": "P-18B17BT671  BT61  (SBS) UG2",
+  "Column8": "P-18B11CI671 CS61 (JAG) CL3_2",
+  "Column9": "P-18B11CI671 CS61 (JAG) CL3_2",
+  "Column11": 12
+ },
+ {
+  "Column4": "P-18B11CI672 CS68  (PMI) Cl9_1",
+  "Column5": "P-18B11CI672 CS68  (PMI) Cl9_1",
+  "Column8": "P-18B11CI671 CS68  (VKS) CL5_2",
+  "Column9": "P-18B11CI671 CS68  (VKS) CL5_2",
+  "Column11": 13
+ },
+ {
+  "Column2": "P-19B1WCI671  CS-IT[PIS]CS67,CS68,IT61,IT62 (NSA) CL9_2",
+  "Column3": "P-19B1WCI671  CS-IT[PIS]CS67,CS68,IT61,IT62 (NSA) CL9_2",
+  "Column11": 14
+ },
+ {
+  "Column11": 15
+ },
+ {
+  "Column11": 16
+ },
+ {
+  "TIME TABLE: (BTECH 6 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "WED",
+  "Column3": "L-18B1WHS640 HSALL  (TNS) CR10",
+  "Column4": "L-19B1WCI734  EC61,CS83-BACK (EMP) CR8",
+  "Column6": "P-18B17BI674  BI61  (SML) BIL",
+  "Column7": "P-18B17BI674  BI61  (SML) BIL",
+  "Column8": "L-18B11CI611 CS64,CS65,CS66 (PDN) CR2",
+  "Column9": "L-18B11CI611 CS67,CS68,CS69 (VKS) LT2",
+  "Column11": 1
+ },
+ {
+  "Column2": "L-18B1WBT633  BT61  (ABH) CR4",
+  "Column3": "L-18B1WHS632 HSALL  (ASA) LT3",
+  "Column4": "L-18B1WBT632  BT61,BI61  (GPL) CR7",
+  "Column8": "P-18B11CI671 CS62  (JAG) CL3_1",
+  "Column9": "P-18B11CI671 CS62  (JAG) Cl3_1",
+  "Column11": 2
+ },
+ {
+  "Column3": "L-20B1WHS631 HSALL  (ANU) CR2",
+  "Column6": "L-18B11EC611  EC61+ECM[CS61,CS66,CS68,CS611,IT61,IT62] (MSD) CR10",
+  "Column8": "P-18B11CI671 CS610  (AKJ) CL9_1",
+  "Column9": "P-18B11CI671 CS610  (AKJ) CL9_1",
+  "Column11": 3
+ },
+ {
+  "Column2": "L-18B11CI611 CS61,CS62,CS63 (JAG) LT2",
+  "Column3": "L-18B1WHS631 HSALL  (TGM) CR5",
+  "Column8": "L-18B11EC612  EC61 (HSL) TR1",
+  "Column10": "L-18B11CI612   CSM[BI61,BT61] (PTK) TR3",
+  "Column11": 4
+ },
+ {
+  "Column2": "L-18B11CI611 IT61,IT62 (ARV) CR12",
+  "Column3": "L-18B1WHS641 HSALL  (NJL) LT1",
+  "Column4": "L-19B1WCI635  CS-IT[PCC] (RJM) CR4",
+  "Column7": "L-18B11BT513 BT61-BACK (ABH) CABIN",
+  "Column9": "L-18B1WEC636 ECALL[BT61] (VKB) TR6",
+  "Column11": 5
+ },
+ {
+  "Column2": "L-18B11CI612 CS67,CS68,CS69 (PMI) LT3",
+  "Column4": "L-20B1WBT631 BT61 (UDB) TR4",
+  "Column8": "P-18B11CI671 IT61 (ARV) CL5_1",
+  "Column9": "P-18B11CI671 IT61 (ARV) CL5_1",
+  "Column11": 6
+ },
+ {
+  "Column2": "L-18B11CI612 CS610,CS611  (HJL) CR16",
+  "Column5": "L-13B1WCI731  EC61 (NVN) CR5",
+  "Column7": "L-18B1WCI634  CS-IT[PDS\/PML\/PCC\/PAI]CS61,CS62,CS69,CS611 (ABS) LT1",
+  "Column9": "L-18B11CI612 CS64,CS65,CS66 (RJM) CR10",
+  "Column11": 7
+ },
+ {
+  "Column4": "L-18B1WCI635  CS-IT[PML\/PBD]CS62,CS63,CS64,CS65,CS66,CS67,CS68,CS69,IT61,IT62,BI61 (EGA) CR12",
+  "Column5": "L-18B11CI611 CS610,CS611 (AKJ) CR11",
+  "Column7": "L-18B1WCI634  CS-IT[PDS\/PML\/PCC\/PAI]CS63,CS67,CS610,IT61,IT62 (YGL) LT3",
+  "Column9": "L-18B1WCE634  CE61,BACK-CE61 (ADP) CR14",
+  "Column11": 8
+ },
+ {
+  "Column2": "L-18B1WBI631 BI61 (TTS) CR5",
+  "Column4": "L-19B1WCI635  CS-IT[PCC] (JAG) CR10",
+  "Column7": "L-18B1WCI634 CS-IT[PDS\/PML\/PCC\/PAI]CS64,CS65,CS66,CS68 (VKS) CR2",
+  "Column8": "P-18B11CI672 CS611  (HJL) CL11",
+  "Column9": "P-18B11CI672 CS611 (HJL) CL11",
+  "Column11": 9
+ },
+ {
+  "Column4": "P-19B1WCI672  CS-IT[PIS] (PDN) CL3_1",
+  "Column5": "P-19B1WCI672  CS-IT[PIS] (PDN) CL3_1",
+  "Column7": "L-19B1WCI631  CS-IT[PIS] (NSA) CR9",
+  "Column11": 10
+ },
+ {
+  "Column7": "L-20B1WBT631 BT61 (GAI) TR4",
+  "Column8": "P-18B17BI673  BI61  (TTS) BIL",
+  "Column9": "P-18B17BI673  BI61  (TTS) BIL",
+  "Column10": "L-20B1WEC532 EC61-BACK (SLD) CABIN2",
+  "Column11": 11
+ },
+ {
+  "Column4": "P-19B1WCI677  CS-IT[PAI]CS62,CS63,CS65,CS67,IT61,IT62 (AVA) CL7",
+  "Column5": "P-19B1WCI677  CS-IT[PAI]CS62,CS63,CS65,CS67,IT61,IT62 (AVA) CL7",
+  "Column7": "L-19B1WEC632  EC61   (ALK) TR7",
+  "Column11": 12
+ },
+ {
+  "Column8": "P-18B11CI672 CS61 (YGL) CL8_1",
+  "Column9": "P-18B11CI672 CS61 (YGL) CL8_1",
+  "Column11": 13
+ },
+ {
+  "Column8": "P-18B11CI672 CS63  (KLK) CL3_2",
+  "Column9": "P-18B11CI672 CS63  (KLK) CL3_2",
+  "Column11": 14
+ },
+ {
+  "Column5": "L-18B11BT612  BT61  (HSD) CR4",
+  "Column11": 15
+ },
+ {
+  "Column11": 16
+ },
+ {
+  "TIME TABLE: (BTECH 6 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "THU",
+  "Column2": "P-18B1WEC673 ECALL[BT61] (VKB) ECL8",
+  "Column3": "P-18B1WEC673 ECALL[BT61] (VKB) ECL8",
+  "Column8": "L-18B11CI611 CS64,CS65,CS66 (PDN) CR10",
+  "Column11": 1
+ },
+ {
+  "Column4": "L-18B1WCE639  CE61,BACK-CE61 (SUB) CR15",
+  "Column5": "L-18B11BT612  BT61  (HSD) CR4",
+  "Column8": "P-18B11CI671 CS61 (JAG) CL4",
+  "Column9": "P-18B11CI671 CS61 (JAG) CL4",
+  "Column11": 2
+ },
+ {
+  "Column2": "L-18B11CI613   ITM [IT61,IT62] (YGL) CR8",
+  "Column7": "L-19B1WCI632  CS-IT[PIS] (PDN) CR5",
+  "Column8": "P-18B11CI671 CS611 (AKJ) CL7",
+  "Column9": "P-18B11CI671 CS611 (AKJ) CL7",
+  "Column10": "P-18B17EC673 EC61+ECM CS61,CS66,CS68,CS611,IT61-62 (ALK) ECL6",
+  "Column11": 3
+ },
+ {
+  "Column2": "L-18B1WBI631 BI61 (TTS) TR3",
+  "Column4": "P-18B1WCI675  CS-IT[PML\/PBD]CS65,CS66,CS67,CS68,IT61,IT62 (SGL) CL3_1",
+  "Column5": "P-18B1WCI675  CS-IT[PML\/PBD] (SGL) CL3_1",
+  "Column6": "L-18B11WCE631  CE61  (CPG) CR15",
+  "Column11": 4
+ },
+ {
+  "Column4": "P-19B1WCI672  CS-IT[PIS] (PDN) CL3_2",
+  "Column5": "P-19B1WCI672  CS-IT[PIS] (PDN) CL3_2",
+  "Column7": "L-18B11WCE631  CE61  (CPG) CR15",
+  "Column8": "L-18B11CI611 CS67,CS68,CS69 (VKS) CR9",
+  "Column11": 5
+ },
+ {
+  "Column2": "P-18B11CI672 CS65 (HJL) CL11",
+  "Column3": "P-18B11CI672 CS65 (HJL) CL11",
+  "Column7": "L-19B1WCI734  EC61,CS83-BACK (EMP) CR7",
+  "Column11": 6
+ },
+ {
+  "Column2": "P-18B17BT573 BT61-BACK (ABH) LAB",
+  "Column3": "P-18B17BT573 BT61-BACK (ABH) LAB",
+  "Column4": "L-18B1WBT633  BT61  (ABH) CR11",
+  "Column7": "L-18B11BT611  BT61  (SBS) CR4",
+  "Column9": "L-18B11CI612 CS64,CS65,CS66 (RJM) CR10",
+  "Column11": 7
+ },
+ {
+  "Column4": "P-19B1WCI675  CS-IT[PCC]CS66,CS67,CS68 (KLK) CL5_1",
+  "Column5": "P-19B1WCI675  CS-IT[PCC]CS66,CS67,CS68 (KLK) CL5_1",
+  "Column8": "P-18B11CI672 CS62  (YGL) CL3_2",
+  "Column9": "P-18B11CI672 CS62  (YGL) CL3_2",
+  "Column11": 8
+ },
+ {
+  "Column2": "P-18B17EC672  EC61  (SHR) CL1",
+  "Column3": "P-18B17EC672  EC61  (SHR) CL1",
+  "Column4": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]CS61,CS64 (MBI) CL4",
+  "Column5": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]CS61,CS64 (MBI) CL4",
+  "Column6": "P-18B1WCI675  CS-IT[PML\/PBD]CS61,CS62,CS63,CS64,CS69,CS610,CS611 (KLK) CL3_1",
+  "Column7": "P-18B1WCI675  CS-IT[PML\/PBD]CS61,CS62,CS63,CS64,CS69,CS610,CS611 (KLK) CL3_1",
+  "Column8": "L-18B11EC612  EC61  (HSL) TR1",
+  "Column11": 9
+ },
+ {
+  "Column4": "P-20B1WCI772  CS-IT[PSC\/PDS]CS61,CS62,CS64,CS65,CS66,CS67,CS610 (RBT) CL6",
+  "Column5": "P-20B1WCI772  CS-IT[PSC\/PDS]CS61,CS62,CS64,CS65,CS66,CS67,CS610 (RBT) CL6",
+  "Column7": "L-19B1WCI637  CS-IT[PAI] (AVA) CR8",
+  "Column8": "P-18B11CI672 CS63  (KLK) CL6",
+  "Column9": "P-18B11CI672 CS63  (KLK) CL6",
+  "Column11": 10
+ },
+ {
+  "Column4": "P-20B1WCI772  CS-IT[PSC\/PDS]CS69,CS611,IT61,IT62 (RKI) CL9_2",
+  "Column5": "P-20B1WCI772  CS-IT[PSC\/PDS]CS69,CS611,IT61,IT62 (RKI) CL9_2",
+  "Column8": "P-18B17BT672  BT61  (GPL) UG1",
+  "Column9": "P-18B17BT672  BT61  (GPL) UG1",
+  "Column11": 11
+ },
+ {
+  "Column11": 12
+ },
+ {
+  "Column7": "L-20B1WCI732  CS-IT[PSC\/PDS] (RBT) LT3",
+  "Column11": 13
+ },
+ {
+  "Column2": "P-18B11CI671 CS66  (NTS) CL6",
+  "Column3": "P-18B11CI671 CS66  (NTS) CL6",
+  "Column11": 14
+ },
+ {
+  "Column4": "P-19B1WCI672  CS-IT[PIS] (HJL) CL11",
+  "Column5": "P-19B1WCI672  CS-IT[PIS] (HJL) CL11",
+  "Column8": "P-18B17CI673   IT62  (NTS) CL3_1",
+  "Column9": "P-18B17CI673   IT62  (NTS) CL3_1",
+  "Column11": 15
+ },
+ {
+  "Column11": 16
+ },
+ {
+  "TIME TABLE: (BTECH 6 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "FRI",
+  "Column3": "L-18B1WHS632 HSALL  (ASA) LT3",
+  "Column11": 1
+ },
+ {
+  "Column2": "L-18B11CI611 CS610,CS611 (AKJ) CR6",
+  "Column6": "L-18B11EC611  EC61+ECM[CS61,CS66,CS68,CS611,IT61,IT62] (MSD) CR10",
+  "Column7": "L-13B1WCI731  EC61  (NVN) CR5",
+  "Column11": 2
+ },
+ {
+  "Column2": "L-18B11CI611 IT61,IT62 (ARV) CR4",
+  "Column3": "L-20B1WHS631 HSALL  (ANU) CR2",
+  "Column4": "L-18B11CI612 CS61,CS62,CS63 (YGL) CR10",
+  "Column7": "L-18B11BT611  BT61  (SBS) CR6",
+  "Column11": 3
+ },
+ {
+  "Column2": "L-18B11CI612 CS67,CS68,CS69 (PMI) LT3",
+  "Column3": "L-18B1WHS631 HSALL  (TGM) CR5",
+  "Column5": "L-18B11CI611 CS61,CS62,CS63 (JAG) LT1",
+  "Column11": 4
+ },
+ {
+  "Column4": "L-19B1WEC632  EC61   (ALK) CR8",
+  "Column7": "L-18B1WCI634  CS-IT[PDS\/PML\/PCC\/PAI]CS61,CS62,CS69,CS611 (ABS) LT1",
+  "Column8": "L-18B11BI612  BI61,BIM (BT61-4) (RJK) CR8",
+  "Column9": "L-18B11BI612  BI61,BIM (BT61-4) (RJK) CR8",
+  "Column11": 5
+ },
+ {
+  "Column3": "L-18B1WHS640 HSALL  (TNS) CR12",
+  "Column4": "L-18B11CE611  CE61  (TNM) CR18",
+  "Column7": "L-18B1WCI634  CS-IT[PDS\/PML\/PCC\/PAI]CS63,CS67,CS610,IT61,IT62 (YGL) CR4",
+  "Column8": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]IT62,CS66 (PMI) CL6",
+  "Column9": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]IT62,CS66 (PMI) CL6",
+  "Column10": "L-18B11CI613   ITM [IT61,IT62] (YGL) TR6",
+  "Column11": 6
+ },
+ {
+  "Column2": "L-18B11BT513 BT61-BACK (ABH) CABIN1",
+  "Column3": "L-18B1WHS641 HSALL  (NJL) LT1",
+  "Column4": "P-18B11CI671 CS68  (VKS) CL5_1",
+  "Column5": "P-18B11CI671 CS68  (VKS) CL5_1",
+  "Column7": "L-18B1WCI634  CS-IT[PDS\/PML\/PCC\/PAI]CS64,CS65,CS66,CS68 (VKS) CR2",
+  "Column8": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]CS68 (VKS) CL4",
+  "Column9": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]CS68 (VKS) CL4",
+  "Column11": 7
+ },
+ {
+  "Column5": "L-18B1WCE639  CE61,BACK-CE61 (SUB) CR13",
+  "Column8": "P-19B1WCI671  CS-IT[PIS]CS61,CS62,CS69,CS610,CS611 (NSA) CL3_1",
+  "Column9": "P-19B1WCI671  CS-IT[PIS]CS61,CS62,CS69,CS610,CS611 (NSA) CL3_1",
+  "Column11": 8
+ },
+ {
+  "Column2": "L-20B1WEC532 EC61-BACK (SLD) CABIN2",
+  "Column4": "L-18B1WBT632  BT61,BI61-NO (GPL) CR5",
+  "Column8": "P-19B1WCI675  CS-IT[PCC]CS61,CS62,CS63,CS64 (RJM) CL5_2",
+  "Column9": "P-19B1WCI675  CS-IT[PCC]CS61,CS62,CS63,CS64 (RJM) CL5_2",
+  "Column11": 9
+ },
+ {
+  "Column4": "P-18B11CI672 CS64 (RJM) CL3_1",
+  "Column5": "P-18B11CI672 CS64 (RJM) CL3_1",
+  "Column7": "L-19B1WCI631  CS-IT[PIS] (NSA) CR7",
+  "Column8": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]CS610 (KLK) CL9_1",
+  "Column9": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]CS610 (KLK) CL9_1",
+  "Column11": 10
+ },
+ {
+  "Column11": 11
+ },
+ {
+  "Column4": "P-18B11CI672 CS67  (PMI) CL7",
+  "Column5": "P-18B11CI672 CS67  (PMI) CL7",
+  "Column7": "P-18B17CE671  CE61  (KKR) CADLAB",
+  "Column8": "P-18B17CE671  CE61  (KKR) CADLAB",
+  "Column11": 12
+ },
+ {
+  "Column4": "P-18B11CI672 CS610  (HJL) CL11",
+  "Column5": "P-18B11CI672 CS610  (HJL) CL11",
+  "Column11": 13
+ },
+ {
+  "Column11": 14
+ },
+ {
+  "Column4": "P-19B1WCI675  CS-IT[PCC]CS69,IT61,IT62 (ARV) CL6",
+  "Column5": "P-19B1WCI675  CS-IT[PCC]CS69,IT61,IT62 (ARV) CL6",
+  "Column11": 15
+ },
+ {
+  "Column11": 16
+ },
+ {
+  "TIME TABLE: (BTECH 6 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "SAT",
+  "Column4": "P-18B11CI671 CS62  (JAG) CL3_1",
+  "Column5": "P-18B11CI671 CS62  (JAG) Cl3_1",
+  "Column11": 1
+ },
+ {
+  "Column4": "P-18B11CI671 CS63  (PDN) CL5",
+  "Column5": "P-18B11CI671 CS63  (PDN) CL5",
+  "Column11": 2
+ },
+ {
+  "Column2": "P-18B11CI671 IT62 (ARV) CL1",
+  "Column3": "P-18B11CI671 IT62 (ARV) CL1",
+  "Column4": "P-18B11CI671 CS69 (ARV) Cl3_2",
+  "Column5": "P-18B11CI671 CS69 (ARV) Cl3_2",
+  "Column11": 3
+ },
+ {
+  "Column2": "P-18B11CI671 CS66  (NTS) CL5_2",
+  "Column3": "P-18B11CI671 CS66  (NTS) CL5_2",
+  "Column4": "P-18B11CI672 CS64 (RJM) Cl9_1",
+  "Column5": "P-18B11CI672 CS64 (RJM) Cl9_1",
+  "Column11": 4
+ },
+ {
+  "Column4": "P-18B11CI672 CS61 (YGL) CL7",
+  "Column5": "P-18B11CI672 CS61 (YGL) CL7",
+  "Column11": 5
+ },
+ {
+  "Column2": "P-18B17CI673 IT61  (KLK) CL8_1",
+  "Column3": "P-18B17CI673 IT61  (KLK) CL8_1",
+  "Column11": 6
+ },
+ {
+  "Column5": "L-18B11CI613 IT61,IT62 (PKR) CR11",
+  "Column11": 7
+ },
+ {
+  "Column2": "P-18B11CI672 CS62  (YGL) Cl5_1",
+  "Column3": "P-18B11CI672 CS62  (YGL) CL5_1",
+  "Column4": "L-18B11CI613 IT61,IT62 (PKR) CR11",
+  "Column11": 8
+ },
+ {
+  "Column4": "P-18B11CI672 CS67  (PMI) CL8_1",
+  "Column5": "P-18B11CI672 CS67  (PMI) CL8_1",
+  "Column11": 9
+ },
+ {
+  "Column2": "L-18B11BT513 BT61-BACK (ABH) CABIN",
+  "Column11": 10
+ },
+ {
+  "Column4": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]CS65 (VKS) CL8_2",
+  "Column5": "P-18B1WCI674  CS-IT[PDS\/PML\/PCC\/PAI]CS65 (VKS) CL8_2",
+  "Column11": 11
+ },
+ {
+  "Column2": "P-18B11CI671 CS610  (AKJ) CL3_1",
+  "Column3": "P-18B11CI671 CS610  (AKJ) CL3_1",
+  "Column4": "L-18B1WCE634 CE61,BACK-CE61 (ADP) CR14",
+  "Column5": "L-18B11CE612 CE61 (KKR) CR13",
+  "Column11": 12
+ },
+ {
+  "Column2": "P-18B17CE671  CE61  (KKR) CADLAB",
+  "Column3": "P-18B17CE671  CE61  (KKR) CADLAB",
+  "Column11": 13
+ },
+ {
+  "Column4": "L-18B1WEC632  EC61 (ALK) TR5",
+  "Column11": 14
+ },
+ {
+  "Column2": "P-18B11CI671 CS67 (VKS) CL9_2",
+  "Column3": "P-18B11CI671 CS67 (VKS) CL9_2",
+  "Column11": 15
+ },
+ {
+  "Column11": 16
+ }
+],
+"BTECH 8 SEM":[
+ {
+  "TIME TABLE: (BTECH 8 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "D\/T",
+  "Column2": "09:00 AM - 09:55 AM",
+  "Column3": "10:00 AM - 10:55 AM",
+  "Column4": "11:00 AM - 11:55 AM",
+  "Column5": "12:00 PM - 12:55PM",
+  "Column6": "01:00 PM - 01:55 PM",
+  "Column7": "02:00 PM - 02:55 PM",
+  "Column8": "03:00 PM - 03:55 PM",
+  "Column9": "04:00PM - 04:55 PM",
+  "Column10": "05:00PM - 05:55 PM"
+ },
+ {
+  "TIME TABLE: (BTECH 8 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "MON",
+  "Column4": "L-18B1WBI834  BI81,BT81,BT82 (SML) TR1"
+ },
+ {
+  "Column3": "L-18B1WEC838  EC[B2] (NTJ) CR4",
+  "Column5": "L-22B1WHS831 HSALL, BACK-BT81 (DLR) CR9",
+  "Column7": "L-21B1WCE831  CEALL (SUV) CR12",
+  "Column8": "L-18B1WCE834  CEALL (ABJ) CR5"
+ },
+ {
+  "Column2": "L-19B1WCI832   CS-IT[PML]CS81,82,83,84,86,87,88, IT81 (VSG) CR12",
+  "Column4": "L-19B1WCI831   CS-IT[PIS] (RKI) CR11"
+ },
+ {
+  "Column3": "L -19B1WCI839 MIT[BI81,BT81] (AKJ) TR2",
+  "Column4": "L-18B1WCE831 CE81 (CPG) TR9",
+  "Column8": "L-18B1WBI831 BI81 (TTS) TR5",
+  "Column9": "L-21B1WPH831 PHALL (EC+BIO), BACK-CE81 (RRS) CR6"
+ },
+ {
+  "Column3": "L-19B1WCI837  CS-IT[PAI] (DHA) CR19"
+ },
+ null,
+ {
+  "Column3": "L-18B1WCI843\/18B1WCI831   CS-IT[MCSE]  (RKI) TR4",
+  "Column4": "L-19B1WEC836  EC[B3] (SLD) CR18",
+  "Column10": "L-18B1WPH731 CS83-BACK-1 (RRS) CABIN"
+ },
+ {
+  "Column3": "L-19B1WEC831  EC[B1] (HSL) TR7",
+  "Column6": "L-21B1WCI831 CIVIL, ECE (EC,CE,BI,BT) (VSG) TR5"
+ },
+ {
+  "Column3": "L-18B1WBT831 BT81 (SDS) BIL",
+  "Column6": "L-21B1WCI832 CIVIL (EC,CE,BI,BT) (RIV) CR6"
+ },
+ null,
+ {
+  "Column3": "L-19B1WCI835   CS-IT[PCC] (NSA) CR11"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "TIME TABLE: (BTECH 8 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "TUE",
+  "Column3": "L-21B1WBT831 BT81,BT82 (AKT) CR7",
+  "Column4": "L-21B1WEC731 ECALL  (NTJ) CR12",
+  "Column5": "L-18B1WEC852 EC[DE] (NVN) CR9",
+  "Column7": "L-18B1WCE834  CEALL (ABJ) CR5",
+  "Column8": "L-18B1WHS834 HSALL (ANU) LT3",
+  "Column9": "L-22B1WHS831 HSALL, BACK-BT81 (DLR) CR9"
+ },
+ {
+  "Column2": "L -19B1WCI839 MIT[BI81,BT81] (AKJ) TR5"
+ },
+ {
+  "Column4": "L-19B1WEC837  EC[B3] (PRG) ECL8",
+  "Column6": "L-21B1WMA831 MAALL (BKP) CR9"
+ },
+ {
+  "Column3": "L-18B1WCI732   CS-IT[PDS] (KLK) CR6"
+ },
+ {
+  "Column3": "L-19B1WEC832  EC[B1] (PDG) TR3",
+  "Column4": "L-18B1WEC851  EC[B2] (MSD) CR5",
+  "Column5": "L-18B1WEC845 ECALL  (SRU) CR12"
+ },
+ {
+  "Column2": "L-18B1WCE736 BACK-CE81 (NJP) CABIN1"
+ },
+ {
+  "Column4": "L-18B1WBI834  BI81,BT81,BT82 (SML) CR6",
+  "Column5": "L-19B1WCI831   CS-IT[PIS] (RKI) CR11"
+ },
+ null,
+ {
+  "Column3": "L-18B1WBI831 BI81 (TTS) TR7"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column4": "L-12B1WBT832 BT81,BI82 (GAI) TR7"
+ },
+ null,
+ null,
+ null,
+ {
+  "TIME TABLE: (BTECH 8 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "WED",
+  "Column8": "L-18B1WHS834 HSALL (ANU) LT3"
+ },
+ {
+  "Column2": "L -19B1WCI839 MIT[BI81,BT81] (AKJ) TR5",
+  "Column3": "L-18B1WEC838  EC[B2] (NTJ) CR4",
+  "Column6": "L-21B1WCI831 CIVIL, ECE (EC,CE,BI,BT) (VSG) TR5",
+  "Column7": "L-21B1WCE831  CEALL (SUV) CR12",
+  "Column9": "L-21B1WPH831 PHALL (EC+BIO), BACK-CE81 (RRS) CR6"
+ },
+ {
+  "Column4": "L-19B1WEC836  EC[B3] (SLD) CR18",
+  "Column6": "L-21B1WCI832 CIVIL (EC,CE,BI,BT) (RIV) CR6"
+ },
+ {
+  "Column3": "L-19B1WCI835   CS-IT[PCC] (NSA) CR6"
+ },
+ {
+  "Column2": "L-18B1WCE736 BACK-CE81 (NJP) CABIN1",
+  "Column10": "L-18B1WPH731 CS83-BACK-1 (RRS) CABIN"
+ },
+ {
+  "Column4": "L-18B1WCE831 CE81 (CPG) TR9"
+ },
+ {
+  "Column3": "L-19B1WEC831  EC[B1] (HSL) TR7",
+  "Column4": "L-18B1WBI834  BI81,BT81,BT82 (SML) TR1"
+ },
+ {
+  "Column3": "L-18B1WBT831 BT81 (SDS) BIL"
+ },
+ null,
+ null,
+ {
+  "Column5": "L-12B1WBT832 BT81,BI82 (GAI) TR7"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "TIME TABLE: (BTECH 8 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "THU",
+  "Column3": "L-19B1WCI835   CS-IT[PCC] (NSA) CR12",
+  "Column4": "L-21B1WEC731 ECALL (NTJ) CR12",
+  "Column8": "L-18B1WHS834 HSALL (ANU) LT3",
+  "Column9": "L-22B1WHS831 HSALL, BACK-BT81 (DLR) CR9"
+ },
+ {
+  "Column2": "L-19B1WCI837  CS-IT[PAI] (DHA) CR16",
+  "Column3": "L-19B1WCI831   CS-IT[PIS] (RKI) CR11",
+  "Column5": "L-18B1WEC845 ECALL (SRU) CR12",
+  "Column7": "L-21B1WPH831 PHALL (EC+BIO), BACK-CE81 (RRS) CR6"
+ },
+ {
+  "Column3": "L-19B1WCI832   CS-IT[PML]CS81,82,83,84,86,87,88, IT81 (VSG) CR10"
+ },
+ {
+  "Column3": "L-18B1WCI732   CS-IT[PDS] (KLK) CR7",
+  "Column4": "L-18B1WEC851  EC[B2] (MSD) CR4",
+  "Column5": "L-18B1WEC852 EC[DE] (NVN) CR9",
+  "Column7": "L-18B1WCI843\/18B1WCI831   CS-IT[MCSE]  (RKI) TR4"
+ },
+ {
+  "Column4": "L-19B1WEC837  EC[B3] (PRG) ECL8"
+ },
+ {
+  "Column3": "L-19B1WEC832  EC[B1] (PDG) TR7"
+ },
+ null,
+ {
+  "Column3": "L-21B1WBT831 BT81,BT82 (AKT) CR5"
+ },
+ {
+  "Column6": "L-21B1WMA831 MAALL (BKP) CR9"
+ },
+ null,
+ {
+  "Column3": "L-18B1WBI831 BI81 (TTS) TR5"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "TIME TABLE: (BTECH 8 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "FRI",
+  "Column2": "L-18B1WCI732   CS-IT[PDS] (KLK) CR8",
+  "Column5": "L-12B1WBT832 BT81,BI82 (GAI) TR7",
+  "Column7": "L-21B1WCE831  CEALL (SUV) CR12",
+  "Column8": "L-18B1WCE834  CEALL (ABJ) CR5"
+ },
+ {
+  "Column4": "L-19B1WEC836  EC[B3] (SLD) CR19"
+ },
+ {
+  "Column6": "L-21B1WCI831 CIVIL, ECE (EC,CE,BI,BT) (VSG) TR5",
+  "Column9": "L-21B1WMA831 MAALL (BKP) CR9"
+ },
+ {
+  "Column5": "L-19B1WCI832   CS-IT[PML]CS81,82,83,84,86,87,88, IT81 (VSG) CR11",
+  "Column6": "L-21B1WCI832 CIVIL (EC,CE,BI,BT) (RIV) CR6",
+  "Column10": "L-18B1WPH731 CS83-BACK-1 (RRS) CABIN"
+ },
+ null,
+ {
+  "Column3": "L-19B1WCI837  CS-IT[PAI] (DHA) CR16",
+  "Column4": "L-18B1WCE831 CE81 (CPG) TR9"
+ },
+ null,
+ {
+  "Column3": "L-18B1WBT831 BT81 (SDS) BIL"
+ },
+ null,
+ null,
+ null,
+ null,
+ {
+  "Column3": "L-19B1WEC831  EC[B1] (HSL) CR8"
+ },
+ null,
+ null,
+ null,
+ {
+  "TIME TABLE: (BTECH 8 SEM ALL BRANCHES)  [EVEN SEM 2022 - 2023]": "SAT",
+  "Column4": "L-21B1WEC731 ECALL (NTJ) CR12"
+ },
+ {
+  "Column2": "L-18B1WCI843\/18B1WCI831   CS-IT[MCSE]  (RKI) TR4",
+  "Column5": "L-18B1WEC845 ECALL  (SRU) CR12"
+ },
+ {
+  "Column3": "L-21B1WBT831 BT81,BT82 (AKT) CR5"
+ },
+ null,
+ {
+  "Column4": "L-18B1WEC851  EC[B2] (MSD) CR5"
+ },
+ {
+  "Column2": "L-18B1WCE736 BACK-CE81 (NJP) CABIN1",
+  "Column4": "L-19B1WEC837  EC[B3] (PRG) ECL8"
+ },
+ null,
+ {
+  "Column5": "L-18B1WEC852 EC[DE] (NVN) CR9"
+ },
+ null,
+ {
+  "Column3": "L-19B1WEC832  EC[B1] (PDG) TR3"
+ },
+ null,
+ null,
+ {
+  "Column3": "L-18B1WEC838  EC[B2] (NTJ) CR4"
+ }
+],
+"MTECH-MSc 2 SEM":[
+ {
+  "TIME TABLE: MTECH-MSc 2 SEM  [JAN 2022 to JUNE 2023]": "D\/T",
+  "Column2": "09:00 AM - 09:55 AM",
+  "Column3": "10:00 AM - 10:55 AM",
+  "Column4": "11:00 AM - 11:55 AM",
+  "Column5": "12:00 PM - 12:55PM",
+  "Column6": "01:00 PM - 01:55 PM",
+  "Column7": "02:00 PM - 02:55 PM",
+  "Column8": "03:00 PM - 03:55 PM",
+  "Column9": "04:00PM - 04:55 PM",
+  "Column10": "05:00PM - 05:55 PM"
+ },
+ {
+  "TIME TABLE: MTECH-MSc 2 SEM  [JAN 2022 to JUNE 2023]": "MON",
+  "Column3": "L-18MS1BT313  MM21  (RST) CR8",
+  "Column7": "L-22M1WCI231 CD21 (NTS) TR4"
+ },
+ {
+  "Column3": "L-11M1WCE213  SE21  (SGS) CR12",
+  "Column4": "L-21MS1MB211 MM21 (SBS) TR2",
+  "Column5": "L-11M1WCE133  SE21  (KKR) CR13",
+  "Column7": "L-20MS1BT211 MB21 (AKT) TR6"
+ },
+ {
+  "Column2": "P-20MS7BT271  MB21  (AKT) GENOMELAB",
+  "Column3": "P-20MS7BT271  MB21  (AKT) GENOMELAB",
+  "Column4": "P-20MS7BT271  MB21  (AKT) GENOMELAB",
+  "Column5": "P-20MS7BT271  MB21  (AKT) GENOMELAB",
+  "Column8": "L-22M11CI212 CD21 (ABS) TR3"
+ },
+ {
+  "Column3": "L-20M1WBT231\/21MS2MB414 BY21,MM41 (G1PL) T1R1",
+  "Column9": "L-22M1WCI235 CD21 (VSG) TR3"
+ },
+ {
+  "Column2": "L-12M1WCE231  SE21  (SUV) TR8",
+  "Column4": "P-21M11EC271  IOT21  (MSD) ECL8",
+  "Column5": "P-21M11EC271  IOT21  (MSD) ECL8"
+ },
+ {
+  "Column9": "L-14M11BT214  BY21  (HSD) CR16"
+ },
+ {
+  "Column2": "P-22M17CI272 CD21 (ABS) ECL5",
+  "Column3": "P-22M17CI272 CD21 (ABS) ECL5",
+  "Column4": "P-22M17CI273 CD21 (DGA) ECL5",
+  "Column5": "P-22M17CI273 CD21 (DGA) ECL5",
+  "Column8": "P-12M1WCE271  SE21  (TNM) CADLAB",
+  "Column9": "P-12M1WCE271  SE21  (TNM) CADLAB"
+ },
+ {
+  "Column7": "P-14M17BT273  BY21  (JAS) GENOMELAB",
+  "Column8": "P-14M17BT273  BY21  (JAS) GENOMELAB"
+ },
+ {
+  "Column5": "L-21MS1MB212  MM21  (AKN) TR2"
+ },
+ {
+  "Column8": "L-20MS1BT213  MB21,MM21  (SML) TR7",
+  "Column9": "L-20MS1BT214 MB21 (JAS) TR4"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "TIME TABLE: MTECH-MSc 2 SEM  [JAN 2022 to JUNE 2023]": "TUE",
+  "Column2": "L-20MS1BT215  MB21  (JTV) CR11",
+  "Column5": "L-18MS1BT211\/14M11BT212 BY21,MM21 (RST) CR16"
+ },
+ {
+  "Column3": "L-20MS1BT216 MB21 (GPL) TR2",
+  "Column4": "L-11M1WCE214  SE21  (SGS) CR15",
+  "Column5": "L-11M1WCE133  SE21  (KKR) CR13",
+  "Column7": "P-20MS7BT272 MB21 (ABH,UDB) UG1",
+  "Column8": "P-20MS7BT272 MB21 (ABH,UDB) UG1",
+  "Column9": "P-20MS7BT272 MB21 (ABH,UDB) UG1"
+ },
+ {
+  "Column3": "L-14M11BT213  BY21  (JAS) TR1",
+  "Column4": "L-20MSWBT231\/11BIWBT840  MB21,BY21  (ABH) CR18",
+  "Column5": "L-21M11EC213  IOT21  (PDG) TR4",
+  "Column7": "L-21M1WEC236  IOT21  (SWT) TR5"
+ },
+ {
+  "Column2": "L-22M11CI211 CD21 (SSA) TR1",
+  "Column3": "L-21M1WEC233  IOT21  (MSD) CR18",
+  "Column4": "L-18MS1BT313  MM21  (RST) CR16",
+  "Column9": "L-14M11BT215  BY21  (JTV) CR15"
+ },
+ {
+  "Column7": "L-22M1WCI233 CD21 (NTS) TR3",
+  "Column8": "L-21M11EC211  IOT21  (PDG) TR3"
+ },
+ {
+  "Column3": "P-22M17CI271 CD21 (SSA) ECL5",
+  "Column4": "P-22M17CI271 CD21 (SSA) ECL5",
+  "Column5": "L-22M11CI213 CD21 (DGA) TR3",
+  "Column7": "L-20M1WBT231\/21MS2MB414 BY21,MM41 (GPL) TR7"
+ },
+ null,
+ {
+  "Column7": "L-21MS1MB211 MM21 (SBS) TR2",
+  "Column8": "L-14M11BT214  BY21  (HSD) CR16"
+ },
+ null,
+ {
+  "Column8": "P-22M17CI273 CD21 (DGA) ECL5",
+  "Column9": "P-22M17CI273 CD21 (DGA) ECL5"
+ },
+ {
+  "Column3": "L-11M1WCE211  SE21  (TNM) CR15"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "TIME TABLE: MTECH-MSc 2 SEM  [JAN 2022 to JUNE 2023]": "WED",
+  "Column5": "L-18MS1BT211\/14M11BT212 BY21,MM21 (RST) CR16",
+  "Column6": "L-20MS1BT212 MB21 (ABH) TR1"
+ },
+ {
+  "Column3": "L-11M1WCE213  SE21  (SGS) CR13",
+  "Column7": "L-20MS1BT211 MB21 (AKT) CR7"
+ },
+ {
+  "Column2": "L-12M1WCE231  SE21  (SUV) TR8",
+  "Column3": "L-21M1WEC233  IOT21  (MSD) CR18",
+  "Column4": "L-11M1WCE211  SE21  (TNM) CR15",
+  "Column7": "L-21MS1MB212  MM21  (SDS) TR2"
+ },
+ {
+  "Column7": "L-21M1WEC236  IOT21  (SWT) TR6",
+  "Column8": "L-21M11EC213  IOT21  (PDG) TR6"
+ },
+ {
+  "Column4": "L-21MS1MB211 MM21 (SBS) TR2",
+  "Column8": "L-20MS1BT213  MB21,MM21  (SML) TR3"
+ },
+ {
+  "Column4": "L-22M1WCI233 CD21 (NTS) TR3",
+  "Column7": "L-22M11CI211 CD21 (SSA) TR5"
+ },
+ {
+  "Column2": "L-22M1WCI235 CD21 (VSG) TR1",
+  "Column4": "L-14M11BT211  BY21  (GAI) CR11",
+  "Column8": "P-12M1WCE271  SE21  (TNM) CADLAB",
+  "Column9": "P-12M1WCE271  SE21  (TNM) CADLAB"
+ },
+ {
+  "Column9": "L-20MS1BT216 MB21 (GPL) TR1"
+ },
+ {
+  "Column2": "P-14M11BT272\/18MS1BT211 BY21,MM21 (RST) UG1",
+  "Column3": "P-14M11BT272\/18MS1BT211 BY21,MM21 (RST) UG1",
+  "Column4": "L-21M11EC211  IOT21  (PDG) CR9",
+  "Column5": "L-21M11EC212  IOT21  (NTJ) CL11",
+  "Column8": "L-22M1WCI231 CD21 (NTS) TR2"
+ },
+ null,
+ {
+  "Column5": "L-22M11CI213 CD21 (DGA) TR3"
+ },
+ {
+  "Column3": "L-20MSWBT232  MB21  (AKN) TR2",
+  "Column9": "L-18MS1BT313  MM21  (RST) CR16"
+ },
+ null,
+ {
+  "Column2": "L-20MS1BT215  MB21  (JTV) CR11",
+  "Column8": "P-14M17BT271  BY21  (GAI) UG2",
+  "Column9": "P-14M17BT271  BY21  (GAI) UG2"
+ },
+ null,
+ null,
+ {
+  "TIME TABLE: MTECH-MSc 2 SEM  [JAN 2022 to JUNE 2023]": "THU",
+  "Column4": "L-14M11BT215  BY21  (JTV) CR18",
+  "Column8": "L-20MS1BT212 MB21 (ABH) CR5",
+  "Column9": "L-20MS1BT214 MB21 (JAS) TR4"
+ },
+ {
+  "Column4": "L-11M1WCE133  SE21  (KKR) CR13",
+  "Column5": "L-11M1WCE214  SE21  (SGS) CR14",
+  "Column7": "L-21M11EC212  IOT21  (NTJ) CL11"
+ },
+ {
+  "Column9": "L-18MS1BT211\/14M11BT212 BY21,MM21 (RST) CR16"
+ },
+ {
+  "Column2": "P-21MS7MB271 MM21 (SBS) UG2",
+  "Column3": "P-21MS7MB271 MM21 (SBS) UG2",
+  "Column4": "P-18MS7BI214 MM21 (SML) BIL",
+  "Column5": "P-18MS7BI214 MM21 (SML) BIL",
+  "Column7": "L-20MS1BT211 MB21 (AKT) TR7"
+ },
+ {
+  "Column3": "L-14M11BT213  BY21  (JAS) TR1"
+ },
+ {
+  "Column3": "L-21M1WEC233  IOT21  (MSD) CR18",
+  "Column5": "L-14M11BT211  BY21  (GAI) TR6",
+  "Column7": "L-21MS1MB212  MM21  (AKN) TR3"
+ },
+ {
+  "Column8": "L-21M11EC213  IOT21  (PDG) TR5"
+ },
+ {
+  "Column3": "L-22M11CI212 CD21 (ABS) TR2",
+  "Column4": "P-22M17CI272 CD21 (ABS) ECL5",
+  "Column5": "P-22M17CI272 CD21 (ABS) ECL5"
+ },
+ {
+  "Column2": "L-11M1WCE213  SE21  (SGS) CR13"
+ },
+ null,
+ {
+  "Column7": "L-20M1WBT231\/21MS2MB414 BY21,MM41 (GPL) TR6"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column3": "L-11M1WCE211  SE21  (TNM) CR15",
+  "Column4": "L-21M1WEC236  IOT21  (SWT) TR4",
+  "Column5": "L-21M11EC211  IOT21  (PDG) TR7"
+ },
+ null,
+ {
+  "TIME TABLE: MTECH-MSc 2 SEM  [JAN 2022 to JUNE 2023]": "FRI",
+  "Column5": "L-11M1WCE214  SE21  (SGS) CR14",
+  "Column7": "L-21M11EC212  IOT21  (NTJ) CL11"
+ },
+ {
+  "Column4": "L-14M11BT211  BY21  (GAI) TR6"
+ },
+ null,
+ {
+  "Column2": "L-12M1WCE231  SE21  (SUV) TR8",
+  "Column3": "L-14M11BT213  BY21  (JAS) TR1",
+  "Column5": "L-20MSWBT231\/11BIWBT840  MB21,BY21  (ABH) CR15",
+  "Column7": "P-20MS7BT272 MB21 (ABH,UDB) UG2",
+  "Column8": "P-20MS7BT272 MB21 (ABH,UDB) UG2",
+  "Column9": "P-20MS7BT272 MB21 (ABH,UDB) UG2"
+ },
+ {
+  "Column2": "P-18MS7BT373 MM21 (RST) UG1",
+  "Column3": "P-18MS7BT373 MM21 (RST) UG1",
+  "Column4": "P-18MS7BT373 MM21 (RST) UG2",
+  "Column5": "P-18MS7BT373 MM21 (RST) UG2"
+ },
+ {
+  "Column8": "L-14M11BT215  BY21  (JTV) CR17"
+ },
+ {
+  "Column3": "L-22M11CI212 CD21 (ABS) TR3",
+  "Column4": "L-22M1WCI233 CD21 (NTS) TR3"
+ },
+ {
+  "Column4": "L-20MS1BT212 MB21 (ABH) TR2"
+ },
+ {
+  "Column5": "L-22M11CI213 CD21 (DGA) TR3",
+  "Column7": "L-22M1WCI231 CD21 (NTS) TR4"
+ },
+ null,
+ {
+  "Column2": "L-22M11CI211 CD21 (SSA) TR2",
+  "Column4": "P-21M11EC271  IOT21  (MSD) ECL8",
+  "Column5": "P-21M11EC271  IOT21  (MSD) ECL8"
+ },
+ null,
+ {
+  "Column2": "L-20MSWBT232  MB21  (AKN) TR1"
+ },
+ null,
+ null,
+ null,
+ {
+  "TIME TABLE: MTECH-MSc 2 SEM  [JAN 2022 to JUNE 2023]": "SAT",
+  "Column2": "P-20MS7BT271  MB21  (AKN) GENOMELAB",
+  "Column3": "P-20MS7BT271  MB21  (AKN) GENOMELAB",
+  "Column4": "P-20MS7BT271  MB21  (JAS) GENOMELAB",
+  "Column5": "P-20MS7BT271  MB21  (JAS) GENOMELAB"
+ },
+ null,
+ {
+  "Column4": "L-22M1WCI235 CD21 (VSG) TR7"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column2": "P-21M11EC271  IOT21  (MSD) ECL4",
+  "Column3": "P-21M11EC271  IOT21  (MSD) ECL4"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null
+],
+"MTECH-MSc 4 SEM, PhD":[
+ {
+  "TIME TABLE: MTECH-MSc 4 SEM, Ph.D ALL BRANCHES)  [JAN 2022 to JUNE 2023]": "D\/T",
+  "Column2": "09:00 AM - 09:55 AM",
+  "Column3": "10:00 AM - 10:55 AM",
+  "Column4": "11:00 AM - 11:55 AM",
+  "Column5": "12:00 PM - 12:55PM",
+  "Column6": "01:00 PM - 01:55 PM",
+  "Column7": "02:00 PM - 02:55 PM",
+  "Column8": "03:00 PM - 03:55 PM",
+  "Column9": "04:00PM - 04:55 PM",
+  "Column10": "05:00PM - 05:55 PM"
+ },
+ {
+  "TIME TABLE: MTECH-MSc 4 SEM, Ph.D ALL BRANCHES)  [JAN 2022 to JUNE 2023]": "MON"
+ },
+ null,
+ {
+  "Column8": "L-17P1WMA112 MPHD  (RKB) CABIN"
+ },
+ {
+  "Column3": "L-20M1WBT231\/21MS2MB414 BY21,MM41 (GPL) TR1",
+  "Column5": "L-21MS1MB412 MM41 (HSD) CR17"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "TIME TABLE: MTECH-MSc 4 SEM, Ph.D ALL BRANCHES)  [JAN 2022 to JUNE 2023]": "TUE"
+ },
+ null,
+ {
+  "Column8": "L-13P1WMA232 MPHD  (MDS) TR2"
+ },
+ {
+  "Column7": "L-20M1WBT231\/21MS2MB414 BY21,MM41 (G1PL) T1R7"
+ },
+ null,
+ {
+  "Column3": "L-21MS1MB412 MM41 (HSD) CR17",
+  "Column4": "L-21MS1MB411 MM41 (AKT) TR5"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "TIME TABLE: MTECH-MSc 4 SEM, Ph.D ALL BRANCHES)  [JAN 2022 to JUNE 2023]": "WED"
+ },
+ null,
+ null,
+ {
+  "Column7": "L-22P1WMAXXX MPHD  (BKP) TR3",
+  "Column8": "L-17P1WMA112 MPHD  (RKB) CABIN",
+  "Column9": "L-Ph.D-Math Weekly MPHD (RKB) CR5"
+ },
+ {
+  "Column3": "L-20MSWBT432 MM41 (UDB) TR5",
+  "Column4": "L-21MS1MB411 MM41 (AKT) TR6",
+  "Column5": "L-20MSWBT433  MM41  (TTS) TR2"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "TIME TABLE: MTECH-MSc 4 SEM, Ph.D ALL BRANCHES)  [JAN 2022 to JUNE 2023]": "THU"
+ },
+ {
+  "Column3": "L-21MS1MB412 MM41 (HSD) CR8",
+  "Column4": "L-21MS1MB411 MM41 (GAI) CR6",
+  "Column8": "L-13P1WMA232 MPHD  (MDS) TR3"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "Column7": "L-20M1WBT231\/21MS2MB414 BY21,MM41 (G1PL) T1R6"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "TIME TABLE: MTECH-MSc 4 SEM, Ph.D ALL BRANCHES)  [JAN 2022 to JUNE 2023]": "FRI"
+ },
+ null,
+ null,
+ {
+  "Column3": "L-20MSWBT433  MM41  (TTS) CR10",
+  "Column4": "L-20MSWBT432 MM41 (UDB) TR4",
+  "Column7": "L-22P1WMAXXX MPHD  (BKP) CR8",
+  "Column8": "L-17P1WMA112 MPHD  (RKB) CABIN"
+ },
+ null,
+ null,
+ null,
+ null,
+ {
+  "Column3": "L-13P1WMA232 MPHD  (MDS) TR7"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "TIME TABLE: MTECH-MSc 4 SEM, Ph.D ALL BRANCHES)  [JAN 2022 to JUNE 2023]": "SAT"
+ },
+ null,
+ {
+  "Column5": "L-22P1WMAXXX MPHD  (BKP) TR2"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null
+]
+}

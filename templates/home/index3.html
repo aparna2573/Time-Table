@@ -1,0 +1,28 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="{% static 'styles3.css'%}">
+  <title>Teacher</title>
+</head>
+<style>
+body{
+	background-repeat: no-repeat;
+      background-size: cover;
+	background-image: url("{% static 'Background.png' %}");
+}
+</style>
+<body>
+  <div class="container">
+	  <img src="{% static 'thrimg.png'%}" class="background-image">
+	  <form method="post">
+	  	<div class="form-row">
+			{{form}}
+			{% csrf_token %}
+			<input type="submit"  value="Submit">
+	  		
+	  	</div>
+	  </form>
+	  </div>
+</body>
+</html>

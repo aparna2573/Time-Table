@@ -1,0 +1,99 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("Background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.background-image {
+  position: absolute;
+  top:2.8cm;
+  left: 8cm;
+  width: 62%;
+  height: 85%;
+  z-index: -1;
+}
+
+.heading{
+  position: relative;
+  text-align: center;
+  font-size: 45px;
+  font-weight: bold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  letter-spacing: 2px;
+  margin-bottom: 0;
+  bottom:2.75cm;
+}
+
+.dropdown {
+  position: relative;
+  margin: .9cm 0;
+  right: 4cm;
+}
+
+.dropbtn {
+  background-color: #7b42f6;
+  color: white;
+  font-size: 19px;
+  border: none;
+  cursor: pointer;
+  padding: 10px 25px;
+  margin: 3px;
+  border-radius: 15px;
+}
+
+.dropdown-content {
+  text-align: center;
+  display: none;
+  position: absolute;
+  background-color: #b8e3f1;
+  min-width: 120px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #2899f5;
+  color: white;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #0037ff;
+}
+
+.larger-textbox {
+  width: 140px;
+  padding: 8px;
+  background-color: #b8e3f1;
+}
+
+.submitbtn{
+  position: relative;
+  background-color: #7b42f6;
+  color: white;
+  font-size: 20px;
+  border: none;
+  padding: 8.5px 40px;
+  border-radius: 5px;
+  top: 2.2cm;
+  left: 2cm;
+}
+
+.submitbtn:hover{
+  background-color: #0037ff;  
+}

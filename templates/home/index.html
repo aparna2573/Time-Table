@@ -1,0 +1,36 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Webtech</title>
+	  <link rel="stylesheet" href="{% static 'style.css'%}">
+</head>
+<style>
+body{
+	background-repeat: no-repeat;
+      background-size: cover;
+	background-image: url("{% static 'Background.png' %}");
+}
+</style>
+<body>
+  <div class="heading">
+    <h1>Time-Table</h1>
+    </div>    
+  <div class="container1">
+	  <img class="frame1" src="{% static 'Frame1.png'%}" alt="Example Image">
+            <div class="overlay1">
+				<button onclick="location.href='index3'">Teacher</button>
+            </div>
+          </div>  
+        </div>
+          <div class="container2">
+			  <img class="frame2" src="{% static 'Frame2.png' %}" alt="Example Image">
+            <div class="overlay2">
+				<button onclick="location.href='index2'">Student</button>
+            </div>
+          </div>              
+</body>
+</html>

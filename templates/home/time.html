@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>TableView - Startup</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+  
+<div class="container">
+  <h2 class="text-center"><u>TimeTable</u></h2><br>            
+  <table class="table table-dark table-striped">
+    <thead>
+      <tr>
+		  <th>Day/time</th>
+        <th>9:00-9:55</th>
+        <th>10:00-10:55</th>
+        <th>11:00-11:55</th>
+        <th>12:00-12:55</th>
+        <th>1:00-1:55</th>
+		<th>2:00-2:55</th>
+		<th>3:00-3:55</th>
+		<th>4:00-4:55</th>
+      </tr>
+    </thead>
+    <tbody>
+    <!-- jinja2 Technique -->
+    {% if d %}  
+    {% for i in d %}
+      <tr>
+        <td>{{i.Column1}}</td>
+        <td>{{i.Column2}}</td>
+        <td>{{i.Column3}}</td>
+        <td>{{i.Column4}}</td>
+        <td>{{i.Column5}}</td>
+        <td>{{i.Column6}}</td>
+        <td>{{i.Column7}}</td>
+        <td>{{i.Column8}}</td>
+        <td>{{i.Column9}}</td>
+      </tr>
+    {% endfor %}
+    {% endif %}
+    </tbody>
+  </table>
+</div>
+  
+</body>
+</html>
